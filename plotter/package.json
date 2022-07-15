@@ -1,0 +1,16 @@
+{
+  "name": "plotter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node -r esbuild-register main.ts"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "esbuild-register": "^3.3.3",
+    "nodeplotlib": "^1.0.2",
+    "papaparse": "^5.3.2"
+  }
+}
