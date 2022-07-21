@@ -23,6 +23,12 @@ function Charts() {
         nticks: 10,
         range: [-1, 500],
       },
+      // camera: {
+      //   eye: {x: 0, y: 0, z: 1.25},
+      //   center: {x: 0, y: 0, z: -0.25},
+      //   up: {x: 0, y:0.001, z: 1}
+      // },
+      // dragmode: 'turntable'
     },
     margin: {
       l: 0,
@@ -30,6 +36,7 @@ function Charts() {
       b: 0,
       t: 100,
     },
+    
   };
   const plots = [orig, gaussian, copulaGan, ctGan, filtered_orig, filtered_gaussian, filtered_copulaGan, filtered_ctGan];
 

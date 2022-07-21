@@ -11,6 +11,10 @@ def make_model(model_type):
         return CTGAN()
     if model_type=='copula_gan':
         return CopulaGAN()
+    if model_type=='copula_gan_1k':
+        return CopulaGAN(epochs=1000)
+    if model_type=='copula_gan_10k':
+        return CopulaGAN(epochs=10000)
     if model_type=='tabular':
         return TabularPreset(name='FAST_ML')
     if model_type=='tvae':
