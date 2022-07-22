@@ -1,4 +1,5 @@
 import sys
+from tabnanny import verbose
 import time
 import pandas
 from sdv.tabular import CopulaGAN, GaussianCopula, CTGAN, TVAE
@@ -8,17 +9,17 @@ def make_model(model_type):
     if model_type=='gaussian':
         return GaussianCopula()
     if model_type=='ctgan':
-        return CTGAN()
+        return CTGAN(verbose=True)
     if model_type=='copula_gan':
-        return CopulaGAN()
+        return CopulaGAN(verbose=True)
     if model_type=='copula_gan_1k':
-        return CopulaGAN(epochs=1000)
+        return CopulaGAN(epochs=1000, verbose=True)
     if model_type=='copula_gan_10k':
-        return CopulaGAN(epochs=10000)
+        return CopulaGAN(epochs=10000, verbose=True)
     if model_type=='tabular':
         return TabularPreset(name='FAST_ML')
     if model_type=='tvae':
-        return TVAE()
+        return TVAE(verbose=True)
     print('Unknown model', model_type)
     sys.exit()
 

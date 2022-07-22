@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node -r esbuild-register main.ts",
     "housing": "node -r esbuild-register california-housing.ts",
-    "bigbasket1k": "node -r esbuild-register bigbasket1k.ts"
+    "bigbasket1k": "node -r esbuild-register bigbasket1k.ts",
+    "airlines": "node -r esbuild-register airlines.ts"
   },
   "author": "",
   "license": "ISC",
