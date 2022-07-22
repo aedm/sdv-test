@@ -1,0 +1,1001 @@
+index,product,category,sub_category,brand,sale_price,market_price,type,rating
+1,Garlic Oil - Vegetarian Capsule 500 mg,Beauty & Hygiene,Hair Care,Sri Sri Ayurveda ,220,220,Hair Oil & Serum,4.1
+2,Water Bottle - Orange,"Kitchen, Garden & Pets",Storage & Accessories,Mastercook,180,180,Water & Fridge Bottles,2.3
+3,"Brass Angle Deep - Plain, No.2",Cleaning & Household,Pooja Needs,Trm,119,250,Lamp & Lamp Oil,3.4
+4,Cereal Flip Lid Container/Storage Jar - Assorted Colour,Cleaning & Household,Bins & Bathroom Ware,Nakoda,149,176,"Laundry, Storage Baskets",3.7
+5,Creme Soft Soap - For Hands & Body,Beauty & Hygiene,Bath & Hand Wash,Nivea,162,162,Bathing Bars & Soaps,4.4
+6,Germ - Removal Multipurpose Wipes,Cleaning & Household,All Purpose Cleaners,Nature Protect,169,199,Disinfectant Spray & Cleaners,3.3
+7,Multani Mati,Beauty & Hygiene,Skin Care,Satinance,58,58,Face Care,3.6
+8,Hand Sanitizer - 70% Alcohol Base,Beauty & Hygiene,Bath & Hand Wash,Bionova,250,250,Hand Wash & Sanitizers,4
+9,Biotin & Collagen Volumizing Hair Shampoo + Biotin & Collagen Hair Conditioner,Beauty & Hygiene,Hair Care,StBotanica,1098,1098,Shampoo & Conditioner,3.5
+10,"Scrub Pad - Anti- Bacterial, Regular",Cleaning & Household,"Mops, Brushes & Scrubs",Scotch brite,20,20,"Utensil Scrub-Pad, Glove",4.3
+11,Wheat Grass Powder - Raw,Gourmet & World Food,Cooking & Baking Needs,NUTRASHIL,261,290,Flours & Pre-Mixes,4
+12,Butter Cookies Gold Collection,Gourmet & World Food,Chocolates & Biscuits,Sapphire,600,600,"Luxury Chocolates, Gifts",2.2
+13,"Face Wash - Oil Control, Active",Beauty & Hygiene,Skin Care,Oxy,110,110,Face Care,5
+14,Mold & Mildew Remover with Bleach,Cleaning & Household,All Purpose Cleaners,Clorox,350,350,Floor & Other Cleaners,3.8
+15,Just Spray - Mosquito Repellent Room Spray,Cleaning & Household,Fresheners & Repellents,Herbal Strategi,200,200,Mosquito Repellent,4.2
+16,Dove Plastic Soap Case - Assorted Colour,Cleaning & Household,Bins & Bathroom Ware,Nakoda,49,59,Soap Cases & Dispensers,4
+17,Smooth Skin Oil - For Dry Skin,Beauty & Hygiene,Skin Care,Aroma Treasures,324,360,Aromatherapy,5
+18,Salted Pumpkin,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Graminway,180,180,Roasted Seeds & Nuts,4.9
+19,Flax Seeds - Roasted,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",True Elements,120,120,Roasted Seeds & Nuts,4.3
+20,Organic Tofu - Soy Paneer,Gourmet & World Food,Dairy & Cheese,Murginns,85.14,90,Tofu,3.9
+21,Ceramic Barrel Brush - Colour May Vary,Beauty & Hygiene,Hair Care,Bronson Professional,525,700,Tools & Accessories,4.2
+22,Instant Noodles - Chicken Satay Flavor,Gourmet & World Food,"Pasta, Soup & Noodles",Koka,45,50,Imported Noodles,4.1
+23,Chia Seeds,"Foodgrains, Oil & Masala",Dry Fruits,NaturoBell,120,120,Other Dry Fruits,3.9
+24,Cleanse Green Tea - Whole Leaf Loose Tea,Gourmet & World Food,Drinks & Beverages,Cambridge Tea Party,75,75,Gourmet Tea & Tea Bags,3.9
+25,Veggie Cutter,"Kitchen, Garden & Pets",Kitchen Accessories,IRICH,195,195,Choppers & Graters,5
+26,Insulated Hot Fresh Casserole For Roti/Chapati - White,"Kitchen, Garden & Pets",Flask & Casserole,Cello,659,895,Casserole,3.3
+27,Granola - Happy Berries,Snacks & Branded Foods,Breakfast Cereals,Fit & Flex,245,265,Granola & Cereal Bars,3.5
+28,Flaxseed - Pesticide Free,"Foodgrains, Oil & Masala",Dry Fruits,Safe Harvest,53.9,55,Other Dry Fruits,4
+29,Paratha Puff,Snacks & Branded Foods,Frozen Veggies & Snacks,Switz,90,110,Frozen Veg Snacks,4.3
+30,Lip Butter - Rose,Beauty & Hygiene,Skin Care,Organic Harvest,169.15,199,Lip Care,1.5
+31,Fruit Power - Masala Sugarcane,Beverages,Fruit Juices & Drinks,Real,19,20,Juices,2.9
+32,Chocobakes Choc Filled Cookies,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",Cadbury,102,120,"Bakery Biscuits, Cookies",4.2
+33,Amber - Deodorant Body Spray,Beauty & Hygiene,Fragrances & Deos,Old Spice,211.65,249,Men's Deodorants,3.4
+34,Green Tea - Tulsi Loose Leaf,Beverages,Tea,Octavius,225,225,Green Tea,3.7
+35,Pet Solitaire Container Set - Silver,"Kitchen, Garden & Pets",Storage & Accessories,Steelo,499,969,Containers Sets,3.9
+36,Dhania - Dal,"Foodgrains, Oil & Masala",Masalas & Spices,bb Royal,98,120,Whole Spices,4.1
+37,Pudina Chutney Masala,"Foodgrains, Oil & Masala",Masalas & Spices,Catch,46.75,55,Blended Masalas,3.9
+38,Bodylicious Deodorant Spray - Mate (For Men),Beauty & Hygiene,Fragrances & Deos,Engage,136.5,195,Men's Deodorants,4.1
+39,"Sport Deo Spray - Fresh, for Men",Beauty & Hygiene,Men's Grooming,Engage,112.75,205,Men's Deodorants,3.7
+40,Choco Deck - Mini Delights,Snacks & Branded Foods,Chocolates & Candies,Fabelle,160,200,Chocolates,4.4
+41,Eau De Toilette - Homme Green,Beauty & Hygiene,Fragrances & Deos,Colour Me,427.5,450,Eau De Toilette,4.3
+42,Lemon & Tea Tree Oil Soap,Beauty & Hygiene,Bath & Hand Wash,Liril,360,360,Bathing Bars & Soaps,4.2
+43,Flavoured Cream Wafer Roll - Strawberry,Gourmet & World Food,Chocolates & Biscuits,Twister,275,275,"Cookies, Biscotti, Wafer",4.3
+44,Storage/Lunch Steel Container with PP Lid - Red,"Kitchen, Garden & Pets",Steel Utensils,Classic Essentials,109,299,Steel Lunch Boxes,2.6
+45,Plain Green Olives,Gourmet & World Food,Tinned & Processed Food,Figaro,179,179,"Olive, Jalapeno, Gherkin",5
+46,Quinoa - Organic,"Foodgrains, Oil & Masala",Organic Staples,Organic Tattva,250,250,"Organic Rice, Other Rice",3.9
+47,After Shave Splash - Arctic Ice,Beauty & Hygiene,Men's Grooming,Gillette,459.62,469,Shaving Care,3.9
+48,Colour Catcher Sheets,Cleaning & Household,All Purpose Cleaners,Dylon ,799,799,Imported Cleaners,4
+49,Sauce - Sweet & Sour,Gourmet & World Food,"Sauces, Spreads & Dips",Pantai,245,245,Thai & Asian Sauces,3.7
+50,Super Hot and Sweet Mango Chutney,Snacks & Branded Foods,Pickles & Chutney,Spice Story,100,125,Chutney Powder,3
+51,Pani Puri Mix Paste,"Foodgrains, Oil & Masala",Masalas & Spices,Mother's Recipe,48.95,55,Cooking Pastes,4.1
+52,Peach Syrup,Gourmet & World Food,Drinks & Beverages,Pekers,850,850,Gourmet Juices & Drinks,4.2
+53,Acne & Oil Control Face Wash,Beauty & Hygiene,Men's Grooming,Red Hunt,80,100,Face & Body,4
+54,Choco Deck - French Dessert Inspired Layered Bar,Snacks & Branded Foods,Chocolates & Candies,Fabelle,56,70,Chocolates,4
+55,Extra Fine Green Peas,Gourmet & World Food,Tinned & Processed Food,Daucy,202.5,225,Beans & Pulses,4.5
+56,Soothing Cucumber Facial Scrub With Apricot Seeds,Beauty & Hygiene,Skin Care,TJORI,299.4,499,Face Care,
+57,Foochka,Snacks & Branded Foods,Ready To Cook & Eat,Shareat,60,60,"Papads, Ready To Fry",3.9
+58,Argan-Liquid Gold Hair Spa,Beauty & Hygiene,Hair Care,Aroma Treasures,199.5,210,Hair & Scalp Treatment,4.4
+59,"Baby Bed Protector - Sublimation Print, Pink",Baby Care,Baby Bath & Hygiene,Quick Dry,199,199,Baby Health,3.7
+60,Corporate Planner Diary With Premium PU Leather Cover With Card Holder,Cleaning & Household,Stationery,Prozo Plus,399,399,"Notebooks, Files, Folders",
+61,"Atta Chalan - Stainless Steel, Size- No.8","Kitchen, Garden & Pets",Kitchen Accessories,Kvg,149,179,Kitchen Tools & Other Accessories,3.5
+62,Dog Supplement - Absolute Skin + Coat Tablet,"Kitchen, Garden & Pets",Pet Food & Accessories,Drools,348.6,498,Pet Meals & Treats,4
+63,"Peanut Butter - Creamy, Super",Gourmet & World Food,"Sauces, Spreads & Dips",Happilo,209.4,349,"Chocolate, Peanut Spread",4.3
+64,Sugar Free Petit Beurre - The Taste of France,Snacks & Branded Foods,Biscuits & Cookies,Bisk Farm,35,35,"Marie, Health, Digestive",4
+65,Aqua Halo Rejuvenating Conditioner,Beauty & Hygiene,Hair Care,Azafran,168.75,225,Shampoo & Conditioner,1
+66,Ayurvedic Anti-Tan Face Pack,Beauty & Hygiene,Skin Care,TJORI,269.4,449,Face Care,
+67,Dog Supplement - Absolute Calcium Tablet,"Kitchen, Garden & Pets",Pet Food & Accessories,Drools,339.15,399,Pet Meals & Treats,3.9
+68,Battery Power Kids Toothbrush - Barbie,Beauty & Hygiene,Oral Care,Colgate,374.25,499,Electric Toothbrush,4
+69,Organic Carom Seeds/Ajwain/Om Kalu,"Foodgrains, Oil & Masala",Masalas & Spices,Earthon,72,72,Whole Spices,
+70,"Padded Harness - 3/4 inch, Grey Colour","Kitchen, Garden & Pets",Pet Food & Accessories,Glenand,840,840,Pet Collars & Leashes,
+71,"Kids Motu Patlu Toothpaste - 2-5 Years, Bubble Fruit Flavour",Beauty & Hygiene,Oral Care,Colgate,43,43,Toothpaste,4
+72,Pure & Gentle Face Wash,Beauty & Hygiene,Skin Care,Pears,120,150,Face Care,4.3
+73,Sesame Seed Oil,Beauty & Hygiene,Skin Care,INATUR ,210,300,Aromatherapy,3.5
+74,Til Dil Seeds,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Mantra,70,70,Roasted Seeds & Nuts,3.6
+75,"Penta Plastic Pet Water Bottle - Green, Wide Mouth","Kitchen, Garden & Pets",Storage & Accessories,BB Home,75,126,Water & Fridge Bottles,
+76,Acne Pimple Kit For Acne & Pimple Removal,Beauty & Hygiene,Skin Care,Natures Essence,500,500,Face Care,3
+77,"Disposable Bamboo Wood Skewer/Picker Sticks- For Barbeque, 12 Inch","Kitchen, Garden & Pets",Kitchen Accessories,Bamboooz,135,299,Kitchen Tools & Other Accessories,4.3
+78,& Moms Bathing Soap - Jasmine,Beauty & Hygiene,Bath & Hand Wash,Dettol,108,120,Bathing Bars & Soaps,4.6
+79,Amla Chatpata Dry Fruit,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Fresho Signature,49,65,Dry Fruits & Berries,
+80,"Toothbrush Superhero Assorted, Batman/Spiderman",Beauty & Hygiene,Oral Care,Colgate,49,79,Toothbrush,3.9
+81,Chips - Topica,Snacks & Branded Foods,Snacks & Namkeen,Sanjay ,65,65,Chips & Corn Snacks,3.9
+82,Cup a Soup - Croutons Cream of Asparagus,Gourmet & World Food,"Pasta, Soup & Noodles",Batchelors,269.1,299,Imported Soups,
+83,Organic Dal - Masoor,"Foodgrains, Oil & Masala",Organic Staples,Pro Nature,96,96,Organic Dals & Pulses,3.9
+84,Strawberry Ice Cream,Gourmet & World Food,Dairy & Cheese,Haagen-Dazs,225,225,Gourmet Ice Cream,
+85,Exo Dishwash Bar- Round 700 gm Box + Pril Dishwash Liquid- Active 2X Lime 225 ml,Cleaning & Household,Detergents & Dishwash,bb Combo,95,114,Dishwash Bars & Powders,
+86,Jupiter Water/Juice Glass Tumbler,"Kitchen, Garden & Pets",Crockery & Cutlery,BB Home,479,629,Glassware,
+87,"Cheese - Feta Greek, Block",Gourmet & World Food,Dairy & Cheese,Fresho Signature,695.7,773,International Cheese,
+88,Avida 3-in-1 Semi Economy Pouch -  FG01248,Cleaning & Household,Pooja Needs,Shalimar,31.5,35,"Agarbatti, Incense Sticks",4.6
+89,Bathing Soap - Sandal & Turmeric,Beauty & Hygiene,Bath & Hand Wash,Godrej No.1,254.15,299,Bathing Bars & Soaps,4.2
+90,Sweet Corn Kernels - Chipotle,Fruits & Vegetables,Cuts & Sprouts,Supa Corn,55,55,Cut & Peeled Veggies,
+91,Ashwagandha Tablets,Beauty & Hygiene,Health & Medicine,Muniyal Ayurveda,120,120,Ayurveda,
+92,Hard Anodised Ezee-Pour Saucepan With Lid - L88,"Kitchen, Garden & Pets",Cookware & Non Stick,Hawkins Futura,864.5,910,Tawa & Sauce Pan,4.6
+93,Topp Up Milk - Elaichi,"Bakery, Cakes & Dairy",Dairy,Gowardhan,80.01,90,"Flavoured, Soya Milk",5
+94,Namkeen - Madras Mixture,Snacks & Branded Foods,Snacks & Namkeen,Townbus,10,10,Namkeen & Savoury Snacks,4.1
+95,"Stainless Steel Storage Lunch Container - Flat, Carry Snack Pack","Kitchen, Garden & Pets",Steel Utensils,Ramson,129,249,Steel Storage Containers,1.5
+96,Oceans Deodorant for Men - Long Lasting & Fresh Aquatic Fragrance,Beauty & Hygiene,Fragrances & Deos,Brut,179.4,299,Men's Deodorants,4
+97,Hair Remover Spray - Foam Lemon,Beauty & Hygiene,Feminine Hygiene,Dimples,1200,1200,Hair Removal,
+98,Mr. Magic Powder-To-Liquid Germ Protection Handwash Empty Bottle + Refill,Beauty & Hygiene,Bath & Hand Wash,Godrej Protekt,32.55,35,Hand Wash & Sanitizers,4.4
+99,Frankincense Oil,Beauty & Hygiene,Skin Care,Organic Harvest,258.75,345,Aromatherapy,3.7
+100,"Wonder Diaper Pants - Xtra Large, 12-17 Kg",Baby Care,Diapers & Wipes,Huggies,1266.38,1398,Diapers,4
+101,Samrakshana Vaastu Deepa Thailam,"Foodgrains, Oil & Masala",Edible Oils & Ghee,Samvruddhi,515,515,Other Edible Oils,
+102,Quinoa - Organic Black,Gourmet & World Food,Cooking & Baking Needs,Nourish You,495,495,Quinoa & Grains,
+103,Fructis Serum - Long & Strong,Beauty & Hygiene,Hair Care,Garnier,230,230,Shampoo & Conditioner,4.8
+104,Citrus Blast Orange Lemon Soap Free Body Wash,Beauty & Hygiene,Bath & Hand Wash,Fuschia,225,250,Shower Gel & Body Wash,3.7
+105,Veda Marie Light Biscuits,Snacks & Branded Foods,Biscuits & Cookies,Sunfeast,30,30,"Marie, Health, Digestive",4.4
+106,"2 Fold Umbrella - Auto-Open & Manual Close, Dark Violet","Kitchen, Garden & Pets",Storage & Accessories,Fendo,289,749,Umbrella,3.6
+107,Aamras Mango Fruit Juice,Beverages,Fruit Juices & Drinks,Paper Boat,243,360,Juices,
+108,Henna & Ginseng Anti Hair Loss Shampoo,Beauty & Hygiene,Hair Care,Jovees,137.75,145,Shampoo & Conditioner,3.6
+109,"Sandwich Toaster - Non-Stick, Gas","Kitchen, Garden & Pets",Cookware & Non Stick,Omega,249,315,Kadai & Fry Pans,3.3
+110,"Baby Cereal - Ragi Almond & Banana, 6-8 Months, No Preservatives, No Artificial Colours",Baby Care,Baby Food & Formula,Slurrp Farm,349,349,Baby Food,4
+111,Incense Sticks - Sandal,Cleaning & Household,Pooja Needs,Ambica,60,60,"Agarbatti, Incense Sticks",4.6
+112,SPF 15 Sunscreen Lotion,Beauty & Hygiene,Skin Care,Elovera,209.3,299,Body Care,5
+113,Fenugreek,"Foodgrains, Oil & Masala",Organic Staples,Organic Tattva,28.5,30,Organic Masalas & Spices,4.2
+114,Caramel Popcorn - Himalayan Salt,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",4700BC,44.1,49,Gourmet Popcorn,
+115,Cold Pressed Bhringraj Cooling Oil For Hair Fall & Damage Control,Beauty & Hygiene,Skin Care,Soulflower,182.75,215,Aromatherapy,4
+116,Sapota - Organically Grown,Fruits & Vegetables,Fresh Fruits,Fresho,35,43.75,Organic Fruits,
+117,Spiced Tea - Blend Of 7 Refreshing Spices,Beverages,Tea,Wagh Bakri,150,150,Leaf & Dust Tea,4.3
+118,"Steel Bowl/Vati/Katori - No. 4, Chutney","Kitchen, Garden & Pets",Steel Utensils,BB Home,69,159,Bowls & Vessels,
+119,"Adult Dry Cat Food - +1 Year, Ocean Fish","Kitchen, Garden & Pets",Pet Food & Accessories,Maxi Persian,999,999,Pet Meals & Treats,
+120,Millet Rusk - Sweet,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",Nutribee,100,100,Rusks,4.5
+121,"Stainless Steel Kadai - Induction Bottom With Glass Lid,  26 cm","Kitchen, Garden & Pets",Cookware & Non Stick,Vinod,1099,1335,Kadai & Fry Pans,3.8
+122,"Power Pocket - Long Lasting Bathroom Fragrance, Berry Rush",Cleaning & Household,Fresheners & Repellents,Aer,53.35,55,Air Freshener,4.2
+123,Cabbage - Red,Fruits & Vegetables,Fresh Vegetables,Fresho,23,28.75,Cabbage & Cauliflower,
+124,Marvel Spiderman 2-In-1 Snackeez Bottle With Snack Box,"Kitchen, Garden & Pets",Storage & Accessories,Hm International,269,299,Lunch Boxes,3
+125,Refined Oil - Rice Bran (Natural Oryzanol & Vitamin E),"Foodgrains, Oil & Masala",Edible Oils & Ghee,Dhara ,183,185,"Sunflower, Rice Bran Oil",4.1
+126,Premium Square Plastic Container - Green,"Kitchen, Garden & Pets",Storage & Accessories,Mastercook,179,280,Containers Sets,3.9
+127,Instant Popcorn - Butter Delite,Snacks & Branded Foods,Snacks & Namkeen,ACT II,29.7,33,Chips & Corn Snacks,4.2
+128,Cherry Lip Balm 4.5 g + Deep Nourish Elbow & Foot Cream 50 g,Beauty & Hygiene,Skin Care,Kaya Clinic,455,525,Lip Care,
+129,Nutrition Plus Health Supplement - Joint Support,Beauty & Hygiene,Health & Medicine,Abbies,1299,1299,Supplements & Proteins,
+130,Glass Belleza Bowl - Wine,"Kitchen, Garden & Pets",Crockery & Cutlery,Iveo ,299,398,Glassware,
+131,Dark Fantasy - Choco Fills Biscuits - Cookies,Snacks & Branded Foods,Biscuits & Cookies,Sunfeast,23.76,30,Cream Biscuits & Wafers,4.3
+132,Banana - Red,Fruits & Vegetables,Fresh Fruits,Fresho,39,48.75,"Banana, Sapota & Papaya",
+133,"Chilli - Bajji, Mild",Fruits & Vegetables,Herbs & Seasonings,Fresho,14,17.5,"Lemon, Ginger & Garlic",
+134,I Love You Fruit N Nut Chocolate,Snacks & Branded Foods,Chocolates & Candies,Amul,90,100,Chocolates,4.2
+135,Pitted Green Olives,Gourmet & World Food,Tinned & Processed Food,Del Monte,230,230,"Olive, Jalapeno, Gherkin",4.4
+136,Glass Mixing Bowl With Lid - Polo,"Kitchen, Garden & Pets",Crockery & Cutlery,Yera,159,190,Glassware,3.7
+137,Cake Gel,Gourmet & World Food,Cooking & Baking Needs,Purix,85.5,90,"Baking, Cake Decorations",
+138,Toffees - Excellence Assorted,Gourmet & World Food,Chocolates & Biscuits,Sapphire,250,250,International Chocolates,
+139,Organic Idly Podi - Ginger,Snacks & Branded Foods,Ready To Cook & Eat,Aaha Oho,75,75,Breakfast & Snack Mixes,3.9
+140,Glass Water Bottle - Aquaria Organic Purple,"Kitchen, Garden & Pets",Storage & Accessories,Cello,369,425,Water & Fridge Bottles,4.8
+141,Stainless Steel Pav Bhaji/Idli Oval Shaped Plate,"Kitchen, Garden & Pets",Steel Utensils,Omega,125,125,Plates & Tumblers,3.6
+142,Organic Cow Ghee/Tuppa,"Foodgrains, Oil & Masala",Organic Staples,Akshayakalpa,280,280,"Organic Edible Oil, Ghee",4.2
+143,Dates/Kharjura - Deseeded,"Foodgrains, Oil & Masala",Dry Fruits,Lion,66,66,Other Dry Fruits,4.1
+144,Chutney - Sweet Mango Sliced (without Garlic),Snacks & Branded Foods,Pickles & Chutney,Priya,90,90,Lime & Mango Pickle,3.9
+145,Turmeric Powder/Arisina Pudi,"Foodgrains, Oil & Masala",Masalas & Spices,Aashirvaad,32,64,Powdered Spices,4.2
+146,Bread - Fruit,"Bakery, Cakes & Dairy",Breads & Buns,English Oven,20,20,"Milk, White & Sandwich",
+147,Bombay Street Food Spice Blend,Gourmet & World Food,Cooking & Baking Needs,Cafe Junyali,225,225,"Curry Paste, Coconut Milk",
+148,Ragi Flakes,Snacks & Branded Foods,Breakfast Cereals,Murginns,225,225,Flakes,4.5
+149,Mustard Oil - Cold Pressed,Gourmet & World Food,Oils & Vinegar,Health 1st,250,250,Flavoured & Other Oils,3.7
+150,Juice/Water Glass - Long Drink Nord,"Kitchen, Garden & Pets",Crockery & Cutlery,Lyra,639,975,Glassware,3.3
+151,Glass Amaze Air Tight Jar - Pink,"Kitchen, Garden & Pets",Crockery & Cutlery,Iveo ,289,358,Glassware,
+152,"Finger Brush For Kids - Blue, Ultra Soft",Beauty & Hygiene,Oral Care,Dentoshine  ,120,120,Toothbrush,4.3
+153,Water/Juice Glass  - Jupiter Long Glass,"Kitchen, Garden & Pets",Crockery & Cutlery,Lyra,459,705,Glassware,3.5
+154,Energy Bar - Choco Crunch,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",On The Run,50,50,"Healthy, Baked Snacks",
+155,Breeze - Razor Blades,Beauty & Hygiene,Feminine Hygiene,Gillette Venus,350,350,Hair Removal,4.3
+156,"Confeito Vermicelli Combo, Sprinkles",Gourmet & World Food,Cooking & Baking Needs,Wow Confetti,247,260,"Baking, Cake Decorations",
+157,Olive Oil - Classic,Gourmet & World Food,Oils & Vinegar,BORGES,429.03,700,"Pure, Pomace Olive Oil",4.5
+158,"Octa Plastic Pet Water Bottle - Light Blue, Narrow Mouth","Kitchen, Garden & Pets",Storage & Accessories,BB Home,25,42,Water & Fridge Bottles,
+159,Chia Seeds,Gourmet & World Food,Cooking & Baking Needs,Organicana,185,185,Quinoa & Grains,
+160,Skin Cream,Beauty & Hygiene,Skin Care,Aloederm,112.5,150,Face Care,3.1
+161,One Touch Air Purifier Freshener - Floral Bouquet Refill,Cleaning & Household,Fresheners & Repellents,Odonil ,77,77,Air Freshener,4.2
+162,Water/Juice Glass,"Kitchen, Garden & Pets",Crockery & Cutlery,Yera,189,220,Glassware,3.7
+163,Color Naturals Creme Riche Ultra Hair Color - Raspberry Red,Beauty & Hygiene,Hair Care,Garnier,199,199,Hair Color,4.1
+164,Nomarks - Antimarks Soap For Oily Skin,Beauty & Hygiene,Bath & Hand Wash,Bajaj,40,40,Bathing Bars & Soaps,4.3
+165,"Silver Needles Tulsi White Tea Bags - Rich In Antioxidants, Pure Tea Buds",Gourmet & World Food,Drinks & Beverages,Sancha,450,450,Gourmet Tea & Tea Bags,
+166,Baby Napkins - Mini Terry,Baby Care,Feeding & Nursing,Mee Mee,179,179,Bibs & Napkins,4.3
+167,"Printed Fabric Pencil Pouch - Purple, BB1263DPPL",Cleaning & Household,Stationery,DP,232,399,Exam Pads & Pencil Box,4
+168,Snacks - Roasted Mixture Lime,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",GoodDiet,79,109,"Healthy, Baked Snacks",
+169,Organic Dosa Mix - Jowar,Snacks & Branded Foods,Ready To Cook & Eat,Aaha Oho,80,80,Breakfast & Snack Mixes,3.7
+170,Lunch Box/Tiffin Set - Green BB 570 2,"Kitchen, Garden & Pets",Storage & Accessories,Tedemei,509,565,Lunch Boxes,3.6
+171,BCAA Energy Drink - Berry Flavour,Beverages,Energy & Soft Drinks,NOCD,110,110,Sports & Energy Drinks,4
+172,Coffee Energizing Face Scrub,Beauty & Hygiene,Skin Care,BIOTIQUE,142.5,190,Face Care,3
+173,Pain Relief - Oil,Beauty & Hygiene,Hair Care,Himalaya Wellness,90,100,Hair Oil & Serum,4.4
+174,Ultra Soft New Born Diapers - Extra Small,Baby Care,Diapers & Wipes,Huggies,699,999,Diapers,3.9
+175,Jungle Stimulating Facial Cleanser,Beauty & Hygiene,Skin Care,StBotanica,799,799,Face Care,
+176,Ylang Ylang Essential Oil,Beauty & Hygiene,Skin Care,Soulflower,328,450,Aromatherapy,4.5
+177,Clear Glycerine Soap - Natural Toning (Tea Tree Oil & Honey),Beauty & Hygiene,Bath & Hand Wash,Medimix,40,40,Bathing Bars & Soaps,4.3
+178,Soap,Beauty & Hygiene,Bath & Hand Wash,Mysore Sandal,430,430,Bathing Bars & Soaps,5
+179,Yellow Balm,Beauty & Hygiene,Health & Medicine,Siang Pure,195,195,Everyday Medicine,
+180,"LED Bulb - 12 Watt, Cool Daylight, B22 Base","Kitchen, Garden & Pets",Appliances & Electricals,AGARO,159,260,CFL & Led Bulbs,4
+181,Coriander Leaves 100 g + Garlic 250 g + Ginger 250 g + Chilli Green Long 250 g,Fruits & Vegetables,Herbs & Seasonings,Fresho,81.06,109.38,Indian & Exotic Herbs,
+182,Jaggery/Bella Powder - Pesticide Free,"Foodgrains, Oil & Masala","Salt, Sugar & Jaggery",Safe Harvest,56,70,Sugar & Jaggery,3.9
+183,Ready Masala - Kashmiri Meat,"Foodgrains, Oil & Masala",Masalas & Spices,Kohinoor,19,20,Blended Masalas,4.2
+184,"Water Saving Aerator, Switch",Cleaning & Household,All Purpose Cleaners,ECO365,509,509,"Kitchen, Glass & Drain",
+185,Lemongrass Anti-Pigmentation Massage Cream,Beauty & Hygiene,Skin Care,Vaadi,148.5,165,Face Care,
+186,Breakfast Mix - Finger Millet Ragi Idli,Snacks & Branded Foods,Ready To Cook & Eat,GoodDiet,119,149,Breakfast & Snack Mixes,4.2
+187,Herbal Wine Grapefruit Lip Balm,Beauty & Hygiene,Skin Care,Khadi Natural,99,99,Lip Care,4.4
+188,Masala Upma,Snacks & Branded Foods,Ready To Cook & Eat,MOM Meal of the Moment,20,20,Heat & Eat Ready Meals,3.4
+189,Maharishi Ayurveda Ayush Kwath,Beauty & Hygiene,Health & Medicine,Maharishi Ayurveda ,165,165,Ayurveda,
+190,Svachh Nakshtra Steel Inner Lid Pressure Cooker (20257),"Kitchen, Garden & Pets",Cookware & Non Stick,Prestige,2369,2780,Pressure Cookers,
+191,Chicken Liver Gourmet Loaf With Pumpkin - Super Food,"Kitchen, Garden & Pets",Pet Food & Accessories,Kennel kitchen ,150,150,Pet Meals & Treats,
+192,Bath & Body Oil - Oriental Spicy Rose,Beauty & Hygiene,Skin Care,Oriental Botanics,699,699,Aromatherapy,2
+193,"Specialist Skin Care Oil - Scars, Stretch Mark, Ageing, Uneven Skin Tone",Beauty & Hygiene,Skin Care,Bio-Oil,333,450,Body Care,4.2
+194,Brioche,"Bakery, Cakes & Dairy",Gourmet Breads,The Baker's Dozen,155,155,Gourmet Bread,4.4
+195,Onion - Rings,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Miaow Miaow,75,75,"Healthy, Baked Snacks",
+196,Cotton Mop With Telescopic Handle 150 Cm,Cleaning & Household,"Mops, Brushes & Scrubs",York,558,620,"Mops, Wipers",
+197,Kale,Fruits & Vegetables,Organic Fruits & Vegetables,Fresho,10,12.5,Organic Vegetables,
+198,"Notebook - Unruled, Long",Cleaning & Household,Stationery,Classmate,33,33,"Notebooks, Files, Folders",4.3
+199,Instant Noodles - Soy & Vinegar,Gourmet & World Food,"Pasta, Soup & Noodles",Koka,67.5,75,Imported Noodles,3.6
+200,Gluten-Free Quinoa Flour,Gourmet & World Food,Cooking & Baking Needs,Graminway,378,378,Flours & Pre-Mixes,3.7
+201,"Chikki, Peanut Bar",Snacks & Branded Foods,Indian Mithai,Paper Boat,40,40,Chikki & Gajjak,4.1
+202,1001 Nights Concentrated Oriental Perfume Free From Alcohol For Unisex,Beauty & Hygiene,Fragrances & Deos,Ajmal,4900,5000,Attar,
+203,Man - Indigo Body Mist,Beauty & Hygiene,Fragrances & Deos,Nike,278.4,348,Body Sprays & Mists,
+204,Fields Of Gold Organic Cumin - Whole,"Foodgrains, Oil & Masala",Organic Staples,PRISTINE,52,52,Organic Masalas & Spices,4.4
+205,Body Massage Oil - Energising,Beauty & Hygiene,Skin Care,Aloe Veda,697.5,775,Aromatherapy,
+206,Synthetic Food Colour Preparation Lemon Yellow,Snacks & Branded Foods,Ready To Cook & Eat,999,20,20,Home Baking,4
+207,"Toothpaste - Gum Care, Expert Protection",Beauty & Hygiene,Oral Care,Pepsodent,78.4,98,Toothpaste,4.3
+208,Bio Myristica Spot Correcting Anti Acne Face Pack,Beauty & Hygiene,Skin Care,BIOTIQUE,149.25,199,Face Care,3.9
+209,"Stainless Steel Frying Ladle - No. 9, Silvera","Kitchen, Garden & Pets",Kitchen Accessories,Anjali,65,82,"Strainer, Ladle, Spatula",3.7
+210,OvenOrg Multi Millet Rusk,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",PRISTINE,35,35,Rusks,1.8
+211,Mahabhringraj Tel - Hairfall Reduction & Dandruff Control,Beauty & Hygiene,Health & Medicine,Baidyanath,295,295,Ayurveda,
+212,Masterchefs Germ Protection Liquid Handwash Refill,Beauty & Hygiene,Bath & Hand Wash,Godrej Protekt,147,147,Hand Wash & Sanitizers,4.2
+213,Black Naturals Hair Colour Shade 1-Deep Black 20 ml + 20 gm,Beauty & Hygiene,Hair Care,Garnier,108.78,117,Hair Color,4.2
+214,Apple Cider Vinegar - Raw Unfiltered Unpasteurized with Cinamon & Honey,Gourmet & World Food,Oils & Vinegar,Zoe,449.1,499,Balsamic & Cider Vinegar,5
+215,"Brinjal - Varikatri, Organically Grown",Fruits & Vegetables,Fresh Vegetables,Fresho,10,12.5,Organic Vegetables,
+216,Wonderz Milk Shakes - Classic Vanilla,"Bakery, Cakes & Dairy",Dairy,Sunfeast,29.75,35,"Flavoured, Soya Milk",4.5
+217,Marie Light Biscuits - Oats Fibre,Snacks & Branded Foods,Biscuits & Cookies,Sunfeast,25,25,"Marie, Health, Digestive",4.3
+218,Masala - Chicken,"Foodgrains, Oil & Masala",Masalas & Spices,Annapoorna,28,28,Blended Masalas,4.8
+219,Dark Chocolate- 55% Rich In Cocoa,Snacks & Branded Foods,Chocolates & Candies,Amul,87.12,100,Chocolates,4.3
+220,Gentle Baby Wipes,Baby Care,Diapers & Wipes,Himalaya,699,699,Baby Wipes,4.1
+221,Avocado,Fruits & Vegetables,Fresh Fruits,Fresho,105,131.25,Exotic Fruits,
+222,Plastic Dustbin - Beige,Cleaning & Household,Bins & Bathroom Ware,DP,249,449,Dustbins,4.1
+223,"Pineapple - Chunks, Single Serve",Fruits & Vegetables,Fresh Fruits,Fresho,19,23.75,"Cut Fruit, Tender Coconut",
+224,Jeera Powder,"Foodgrains, Oil & Masala",Masalas & Spices,Catch,44.2,52,Powdered Spices,4.1
+225,Pure Neem Skin Purifying Face Wash,Beauty & Hygiene,Skin Care,Joy,90,120,Face Care,4.3
+226,Lemon - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,Fresho,33.6,42,Organic Vegetables,
+227,Lavender & Vanilla Handmade Luxury Soap,Beauty & Hygiene,Bath & Hand Wash,StBotanica,275,275,Bathing Bars & Soaps,5
+228,"Stainless Steel Pressure Cooker - Steeltuff, Induction Base, Silver","Kitchen, Garden & Pets",Cookware & Non Stick,United,2059,2424,Pressure Cookers,3
+229,"Steel Deep Dabba/Storage Container - No. 12, Plain","Kitchen, Garden & Pets",Steel Utensils,BB Home,249,339,Steel Storage Containers,
+230,Chyawan Fit Sugarfree Chyawanprash - Natural Immunity Booster,Beauty & Hygiene,Health & Medicine,Baidyanath,225,225,Supplements & Proteins,5
+231,Morning Dew Perfumed Talc 250 g + English Lavender Perfumed Talc 250 g,Beauty & Hygiene,Bath & Hand Wash,Yardley London,329.8,400,Talcum Powder,
+232,"Energy Bars - Nutty, 4+ Years, 100% Natural & Healthy",Snacks & Branded Foods,Chocolates & Candies,Timios,140,140,Chocolates,3.6
+233,Banana Stem - Diced,Fruits & Vegetables,Cuts & Sprouts,Fresho,32,40,Cut & Peeled Veggies,
+234,Chilli Flakes,Gourmet & World Food,Cooking & Baking Needs,On1y,99,99,"Herbs, Seasonings & Rubs",4.3
+235,Bite & Sip Flask And Lunch Box/Tiffin Box - Green Colour,"Kitchen, Garden & Pets",Storage & Accessories,Asian,319,495,Lunch Boxes,3.5
+236,Namkeen - Khara Boondi,Snacks & Branded Foods,Snacks & Namkeen,Tasties,49,85,Namkeen & Savoury Snacks,4
+237,Raw Seeds - Sunflower Pumpkin Flax Seeds,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",True Elements,166,175,Roasted Seeds & Nuts,4.4
+238,"Garnet LED White Bulb - 14 Watt, Cool Day, B22","Kitchen, Garden & Pets",Appliances & Electricals,Wipro,199,320,CFL & Led Bulbs,3.5
+239,Tempeh Cubes - Simply Sriracha Soyabean,"Bakery, Cakes & Dairy",Dairy,Hello Tempayy,135,150,"Paneer, Tofu & Cream",5
+240,Green Tea Gentle Detox Set,Beauty & Hygiene,Skin Care,The Moms Co,972,972,Body Care,
+241,Fresh Catch Fish Fingers,"Eggs, Meat & Fish",Fish & Seafood,Ifb,240,240,Frozen Fish & Seafood,
+242,Sour Cream & Onion,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Appitas,95,95,Nachos & Chips,2.8
+243,Xylitol Powder,Gourmet & World Food,Cooking & Baking Needs,So Sweet,350,350,Exotic Sugar & Salt,5
+244,Glass Amaze Air Tight Jar - Pink,"Kitchen, Garden & Pets",Crockery & Cutlery,Iveo ,289,358,Glassware,
+245,Sixer Biscuits - Salted,Snacks & Branded Foods,Biscuits & Cookies,Parle,60,60,Salted Biscuits,4.2
+246,"Gokshuradi Guggulu - Urinary Disorders, 500mg",Beauty & Hygiene,Health & Medicine,Sri Sri Tattva,80,80,Ayurveda,
+247,Peach Shine Lip Care,Beauty & Hygiene,Skin Care,Himalaya,112.5,150,Lip Care,4
+248,Skincare Hand Wash Refill,Beauty & Hygiene,Bath & Hand Wash,Dettol,218,218,Hand Wash & Sanitizers,4.3
+249,4mm Aluminium Induction Base Chapati Roti Tawa - Silver,"Kitchen, Garden & Pets",Cookware & Non Stick,HAZEL,649,1289,Tawa & Sauce Pan,
+250,Mix - Rava Idli,Snacks & Branded Foods,Ready To Cook & Eat,Grb,110,110,Breakfast & Snack Mixes,4.1
+251,Impress Concentrated Perfume Free From Alcohol For Male,Beauty & Hygiene,Fragrances & Deos,Ajmal,300,500,Attar,
+252,Skin Awakening Rinse,Beauty & Hygiene,Skin Care,Kaya Clinic,432,480,Face Care,5
+253,Pacific Steel Insulated Vacuum Flask,"Kitchen, Garden & Pets",Flask & Casserole,BB Home,609,999,Vacuum Flask,
+254,Regenerist - Advanced Anti-Ageing Revitalising Hydration Skin Cream Moisturizer SPF 15,Beauty & Hygiene,Skin Care,Olay,1049.25,1399,Face Care,4.1
+255,Cotton Swabs,Beauty & Hygiene,Health & Medicine,SINWUAS,39,69,Cotton & Ear Buds,
+256,"Tropical Fruit Pudding - Lychee, Mango, Strawberry Flavoured",Gourmet & World Food,Chocolates & Biscuits,Cocon,63.75,75,"Marshmallow, Candy, Jelly",4
+257,Pippali Fruit Powder - Supports Healthy Digestive & Immune System,Beauty & Hygiene,Health & Medicine,Bixa Botanical,595,595,Ayurveda,
+258,Salt & Peeper Shaker Masala Dabbi With Window,"Kitchen, Garden & Pets",Kitchen Accessories,Ritu,89,125,Kitchen Tools & Other Accessories,3.2
+259,Organic - Triphala Powder,"Foodgrains, Oil & Masala",Organic Staples,Organic Tattva,94.05,99,Organic Masalas & Spices,4.2
+260,Aeda Glycerine Bathing Bar - Natural Green,Beauty & Hygiene,Bath & Hand Wash,K.P. Namboodiris,35,35,Bathing Bars & Soaps,4.7
+261,Chicken Cocktail Sausage,"Eggs, Meat & Fish","Sausages, Bacon & Salami",Fresho,171.6,220,Chicken Sausages,
+262,Sun Expert Fairnes Sunscren Lotion SPF 30 PA++,Beauty & Hygiene,Skin Care,Lakme,385,385,Body Care,4.5
+263,Cotton Pads,Beauty & Hygiene,Health & Medicine,Tulips,80,80,Cotton & Ear Buds,4.4
+264,Ashwagandha Powder,Gourmet & World Food,Drinks & Beverages,NUTRIWISH,400,400,Health Drinks,2.5
+265,Frozen - Mixed Vegetables,Snacks & Branded Foods,Frozen Veggies & Snacks,Safal,93.5,110,Frozen Vegetables,4.1
+266,Masala - Kitchen,"Foodgrains, Oil & Masala",Masalas & Spices,Aachi,29.7,33,Blended Masalas,5
+267,Mustard/Sasive/Rai - Big,"Foodgrains, Oil & Masala",Masalas & Spices,bb Royal,30,50,Whole Spices,4.2
+268,Ayurvedic Soap,Beauty & Hygiene,Bath & Hand Wash,Chandrika ,230.4,288,Bathing Bars & Soaps,4.4
+269,"Glass Matt Finish Bottle With Plastic Cap - Blue, BB1324","Kitchen, Garden & Pets",Storage & Accessories,DP,169,309,Water & Fridge Bottles,
+270,Perfume - Youth Dew EDP Spray,Beauty & Hygiene,Fragrances & Deos,Estee Lauder,3500,3500,Eau De Parfum,
+271,Cotton Swabs,Beauty & Hygiene,Health & Medicine,Tulips,109,109,Cotton & Ear Buds,4
+272,Organic Idly - Oats,Snacks & Branded Foods,Ready To Cook & Eat,Aaha Oho,125,125,Breakfast & Snack Mixes,
+273,Red Curry,Gourmet & World Food,Cooking & Baking Needs,Real Thai,270,270,"Curry Paste, Coconut Milk",4.4
+274,Hareli Kitchen Jar,"Kitchen, Garden & Pets",Crockery & Cutlery,Pasabahce,409,502,Glassware,
+275,Heavy Starch - Lemon Fresh Scent,Cleaning & Household,All Purpose Cleaners,Faultless,285,285,Imported Cleaners,4.5
+276,United Dreams Go Far Eau De Toilette,Beauty & Hygiene,Fragrances & Deos,United Colors Of Benetton ,1330,1900,Eau De Toilette,5
+277,Ayurvedic Jamun Powder,Beauty & Hygiene,Health & Medicine,Meghdoot,60,60,Ayurveda,
+278,So Soft 2 Ply Face Tissue Box,Cleaning & Household,"Disposables, Garbage Bag",Origami,140,140,"Paper Napkin, Tissue Box",4.1
+279,"Pomegranate - Single Serve, Peeled",Fruits & Vegetables,Fresh Fruits,Fresho,34,42.5,"Cut Fruit, Tender Coconut",
+280,Stevia Spoonable - Powder,Gourmet & World Food,Cooking & Baking Needs,So Sweet,320,320,Exotic Sugar & Salt,3.9
+281,Ylang Ylang Essential Oil,Beauty & Hygiene,Skin Care,Aloe Veda,351,390,Aromatherapy,3
+282,Toor/Arhar Dal,"Foodgrains, Oil & Masala",Dals & Pulses,bb Popular,128,160,"Toor, Channa & Moong Dal",
+283,Peristaltic Nipple - 'S' Hole,Baby Care,Feeding & Nursing,Pigeon Baby,99,99,Sippers & Bottles,
+284,Fragrance Body Spray - Cool Blue,Beauty & Hygiene,Fragrances & Deos,Park avenue,159.5,290,Men's Deodorants,3.5
+285,Vitamin C Brightening Peel Off Mask,Beauty & Hygiene,Skin Care,StBotanica,499,499,Face Care,
+286,Almond & Rose Soap Value Pack,Beauty & Hygiene,Bath & Hand Wash,Himalaya,131.2,160,Bathing Bars & Soaps,4.3
+287,Yippee Noodles - Magic Masala,Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",Sunfeast,61.2,68,Instant Noodles,4.3
+288,Fields Of Gold Organic Foxtail Millet,"Foodgrains, Oil & Masala",Dals & Pulses,PRISTINE,90,90,Cereals & Millets,4.5
+289,Arrabbiata Tomato Pasta Sauce With Chilli,Gourmet & World Food,"Sauces, Spreads & Dips",Montanini,325,325,Mustard & Cheese Sauces,5
+290,"Wood - Centre Filled Bar Infused With Dark Mousse, Cinnamon & Coffee",Snacks & Branded Foods,Chocolates & Candies,Fabelle,350,350,Chocolates,4.5
+291,Basil Seed Drink - Orange,Gourmet & World Food,Drinks & Beverages,Fruitoria,84.15,99,Gourmet Juices & Drinks,
+292,Solution Anti Blackhead/Whitehead Masksheet (Pack of 10),Beauty & Hygiene,Skin Care,The Face Shop,900,1500,Face Care,
+293,Acno Fight Pimple Clearing Gel,Beauty & Hygiene,Men's Grooming,Garnier Men,104.3,149,Face & Body,3.3
+294,Pork Classic Salami,"Eggs, Meat & Fish","Sausages, Bacon & Salami",La Carne,191.25,225,Pork & Ham,
+295,Gold Flash - Mosquito Repellent Combo Machine & Refill,Cleaning & Household,Fresheners & Repellents,Good knight,226.16,257,Mosquito Repellent,4.3
+296,Stainless Steel Airtight Storage Container - SL-1401,"Kitchen, Garden & Pets",Steel Utensils,Steel Lock,209,269,Steel Storage Containers,3.7
+297,Organic Idly Podi - Ginger,Snacks & Branded Foods,Ready To Cook & Eat,Aaha Oho,75,75,Breakfast & Snack Mixes,3.9
+298,Whisky Cocktail Mixers - 100% Natural,Gourmet & World Food,Drinks & Beverages,Swa Artisanal Syrups,1200,1200,Gourmet Juices & Drinks,
+299,Family Sunscreen Lotion SPF 25,Beauty & Hygiene,Skin Care,INATUR ,273,420,Face Care,1
+300,Japanese Cooking Rice-Wine,Gourmet & World Food,Oils & Vinegar,Urban Platter,475,500,Flavoured & Other Oils,1
+301,Coated Green Peas - Wasabi,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Cornitos,93.5,110,Roasted Seeds & Nuts,4.1
+302,Charminar Basmati Rice/Basmati Akki - Select,"Foodgrains, Oil & Masala",Rice & Rice Products,Kohinoor,399,569,Basmati Rice,3.9
+303,Hide & Seek Choco Rolls,Snacks & Branded Foods,Biscuits & Cookies,Parle,37.5,50,Cream Biscuits & Wafers,4.3
+304,"Hair Fall Control Kit - Oil, Shampoo & Serum",Beauty & Hygiene,Hair Care,Dr Batra's ,630,1050,Shampoo & Conditioner,5
+305,"Anti-Acne Face Cleanser - With Salyclic Acid, For Oily Skin",Beauty & Hygiene,Men's Grooming,Bombay Shaving Company,236,295,Face & Body,3
+306,Gluten-Free Moong Dal Cheela/Dosa Mix,Gourmet & World Food,Cooking & Baking Needs,Graminway,259,259,Flours & Pre-Mixes,4.2
+307,Milk Boiler - Aluminium,"Kitchen, Garden & Pets",Cookware & Non Stick,Le Kaviraj,549,732,Cook And Serve,2.5
+308,"Green Tea - Pure, Bio-Degradable",Gourmet & World Food,Drinks & Beverages,Tealia,297,297,Gourmet Tea & Tea Bags,
+309,Cube Storage Glass Jar,"Kitchen, Garden & Pets",Storage & Accessories,Treo,249,370,Containers Sets,4.4
+310,M1 Perfume Spray - For Men,Beauty & Hygiene,Fragrances & Deos,Engage,231,420,Men's Deodorants,4.3
+311,Tulsi Mulethi Green Tea,Gourmet & World Food,Drinks & Beverages,Karma Kettle,300,300,Gourmet Tea & Tea Bags,
+312,Nicer Dicer,"Kitchen, Garden & Pets",Kitchen Accessories,IRICH,475,1195,Choppers & Graters,2.6
+313,Masala - Punjabi Chhole,"Foodgrains, Oil & Masala",Masalas & Spices,Tata Sampann,28.05,33,Blended Masalas,4.3
+314,"Pork - Fresh Bacon, Sliced","Eggs, Meat & Fish","Sausages, Bacon & Salami",Fresho Signature,360,400,Pork & Ham,
+315,Active Salt Toothpaste Saver Pack 300g + Sensitive Soft Bristles Toothbrush 4pcs,Beauty & Hygiene,Oral Care,Colgate,149.72,258,Toothpaste,
+316,Silicone Feeding Nipple/Teat Regular Neck - Size XL,Baby Care,Feeding & Nursing,Vauva,150,150,Nursing Tools,
+317,"Microwaveable Plastic Multiutility Bowl - Yellow, New Coral, L2272 YL","Kitchen, Garden & Pets",Storage & Accessories,Princeware,29,38,Containers Sets,3.6
+318,Chicken Jalapeno Cheese Nuggets,"Eggs, Meat & Fish","Sausages, Bacon & Salami",Meatzza,285,300,Chicken Sausages,
+319,Milk Delights Face Wash With Honey For Dry Skin,Beauty & Hygiene,Skin Care,Nivea,86.4,90,Face Care,4.2
+320,Instaglow Oxygen Bleach,Beauty & Hygiene,Skin Care,Vlcc,63,70,Face Care,4.1
+321,Soft Drink - Lime Flavoured,Beverages,Energy & Soft Drinks,Sprite,38,40,Cold Drinks,4.3
+322,Coffee Creamer - Coffee-Mate,Gourmet & World Food,Drinks & Beverages,Nestle ,425,425,Coffee & Pre-Mix,
+323,Royce Premium High Quality Pedal Plastic Dustbin / Garbage Bin - Blue,Cleaning & Household,Bins & Bathroom Ware,MVS,219,265,Dustbins,2.8
+324,Khaas Shampoo Bar - Heena Amla,Beauty & Hygiene,Hair Care,Stonesoup,295,295,Shampoo & Conditioner,
+325,Bubble Glass,"Kitchen, Garden & Pets",Crockery & Cutlery,Seven seas,789,1041,Glassware,
+326,Dazzle Livid Lilac Dinner Set - White,"Kitchen, Garden & Pets",Crockery & Cutlery,Cello,1229,1895,Dinner Sets,3.8
+327,Dhanwantharam Kwath,Beauty & Hygiene,Health & Medicine,Kerala Ayurveda,140,140,Ayurveda,
+328,Suzzan Glass Bottle With Blue Cap,"Kitchen, Garden & Pets",Storage & Accessories,Treo,290,290,Water & Fridge Bottles,
+329,Henko Detergent Bar - Stain Care 250 gm + Mr. White Detergent Powder 1 kg Pouch,Cleaning & Household,Detergents & Dishwash,bb Combo,87,95,Detergent Bars,
+330,Tea - English Breakfast,Beverages,Tea,Typhoo,166,195,Tea Bags,4.5
+331,Rolled Oats - Gluten Free + Gluten Free - Steel Cut Oats (each 500 g),Snacks & Branded Foods,Breakfast Cereals,True Elements,352,400,Oats & Porridge,
+332,"Wafer Roll - Twister, Black With Vanilla Flavoured Cream",Gourmet & World Food,Chocolates & Biscuits,Delfi,275,275,"Cookies, Biscotti, Wafer",
+333,Steel Cut Oats,Snacks & Branded Foods,Breakfast Cereals,NUTRIWISH,650,650,Oats & Porridge,3.5
+334,Zucchini - Green,Fruits & Vegetables,Fresh Vegetables,Fresho,50,62.5,Exotic Vegetables,
+335,Green Sliced Olives,Gourmet & World Food,Tinned & Processed Food,Habit,180,200,"Olive, Jalapeno, Gherkin",4
+336,Ready To Eat - Khatta Meetha Poha,Snacks & Branded Foods,Ready To Cook & Eat,MTR,60,60,Breakfast & Snack Mixes,4.1
+337,Roasted Soyanuts - Wasabi,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",FabBox,185,185,Roasted Seeds & Nuts,
+338,Radiance Boost Orange Aroma Mask,Beauty & Hygiene,Skin Care,Organic Harvest,112.5,125,Face Care,2.5
+339,Muffin/Cup Cake Vanilla 200 g + Choco Chip 200 g (Pack of 4 each),"Bakery, Cakes & Dairy",Cakes & Pastries,Fresho Signature,318,318,Muffins & Cup Cakes,
+340,Masala Oats - Veggie Twist,Snacks & Branded Foods,Snacks & Namkeen,Saffola,180,195,Oats & Porridge,4.2
+341,Sunscreen Cream - Sunblock Anti Aging SPF UV 60,Beauty & Hygiene,Skin Care,Soft Touch,475,475,Face Care,4.5
+342,Sunblock Lotion,Beauty & Hygiene,Skin Care,Aroma Magic ,178.5,210,Face Care,4.1
+343,Copper Water Fliptop Bottle - Stripes,"Kitchen, Garden & Pets",Steel Utensils,Frestol,549,1299,Copper Utensils,2.4
+344,For Men Evolution Eau De Toilette,Beauty & Hygiene,Fragrances & Deos,Jaguar,1900.8,3300,Eau De Toilette,
+345,"Long & Black Shampoo - With Goodness Of Amla & Bhringraj, For Shiny, Black Hair",Beauty & Hygiene,Hair Care,Dabur Vatika,171,190,Shampoo & Conditioner,4.2
+346,Toothpaste - Complete Care,Beauty & Hygiene,Oral Care,Neem ,65,80,Toothpaste,4.3
+347,Olive Oil - Pomace,Gourmet & World Food,Oils & Vinegar,Oleiva Gold,3330,3330,"Pure, Pomace Olive Oil",3.5
+348,Glass Set - Solo Shot Bar,"Kitchen, Garden & Pets",Crockery & Cutlery,Ocean,579,888,Glassware,
+349,Bonacure Conditioner - Repair Rescue,Beauty & Hygiene,Hair Care,Schwarzkopf Professional,900,900,Shampoo & Conditioner,5
+350,Vegan Chipotle Mayo - Dairy-Free,Gourmet & World Food,"Sauces, Spreads & Dips",Urban Platter,332.5,350,Salad Dressings,3.4
+351,Blueberry,Fruits & Vegetables,Fresh Fruits,Fresho,330,418.75,Exotic Fruits,
+352,"Oregano - Organic, USDA Certified",Gourmet & World Food,Cooking & Baking Needs,Geo-Fresh,99,99,"Herbs, Seasonings & Rubs",4.2
+353,Chunky Salsa - Mild,Gourmet & World Food,"Sauces, Spreads & Dips",Cornitos,140.25,165,"Hummus, Cheese, Salsa Dip",
+354,Multigrain Energy Bar - Nuts n Seed,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Yoga bar,40,40,Cereal & Granola Bars,4
+355,Active Fresh Gel Toothpaste,Beauty & Hygiene,Oral Care,Himalaya,45,50,Toothpaste,4.3
+356,Hydro Replenish Radiance Day Crème with SPF 15,Beauty & Hygiene,Skin Care,Kaya Youth,104.3,149,Face Care,4.3
+357,Anti-Hair Fall Shampoo,Beauty & Hygiene,Hair Care,Himalaya,123.5,130,Shampoo & Conditioner,4.2
+358,"Cereal - Ragi, Rice & Mango With Milk",Baby Care,Baby Food & Formula,Slurrp Farm,300,300,Organic Baby Food,4
+359,Fenugreek/Methi/Menthya,"Foodgrains, Oil & Masala",Masalas & Spices,bb Popular,18.4,30,Whole Spices,4.1
+360,Hair Spa Oil Therapy,Beauty & Hygiene,Hair Care,Prakrta,370.5,390,Hair Oil & Serum,5
+361,"Sauce - Bhut Jolokia, Sweet Chilli",Snacks & Branded Foods,"Spreads, Sauces, Ketchup",ENE,168.75,225,Chilli & Soya Sauce,5
+362,Dry Fruit Mixed Chatpata,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Fresho Signature,149,215,Dry Fruits & Berries,
+363,Organic Coriander Powder,"Foodgrains, Oil & Masala",Organic Staples,24 Mantra,48,48,Organic Masalas & Spices,4.1
+364,Stainless Steel Induction Base Tope,"Kitchen, Garden & Pets",Steel Utensils,Vinod,399,435,Bowls & Vessels,4.1
+365,"Adult Cat Food Pocket Tuna 7 kg + Wet Meal Tuna In Jelly, for Adult Cat 1.02 kg","Kitchen, Garden & Pets",Pet Food & Accessories,Whiskas,1986.6,2220,Pet Meals & Treats,
+366,"Pork - Mortadella with Olives, Sliced","Eggs, Meat & Fish","Sausages, Bacon & Salami",Fresho Signature,410.4,456,Pork & Ham,
+367,Andhra Special Allam/Ginger Pickle,Snacks & Branded Foods,Pickles & Chutney,Delight Foods,210,210,Other Veg Pickle,2
+368,New Dry Diapers - Medium,Baby Care,Diapers & Wipes,Huggies,388.88,425,Diapers,3.8
+369,Fruit N Fibre Muesli - Mixed Fruit,Snacks & Branded Foods,Breakfast Cereals,Bagrrys,320,320,Muesli,4.3
+370,Basa Fish - Fillet Family Pack,"Eggs, Meat & Fish",Fish & Seafood,Seastar,499,499,Frozen Fish & Seafood,
+371,Baby Corn - Sweet & Sour,Gourmet & World Food,Tinned & Processed Food,Hugo Reitzel ,607.75,715,Tomatoes & Vegetables,5
+372,Kool - Badam,"Bakery, Cakes & Dairy",Dairy,Amul,20,20,"Flavoured, Soya Milk",4.2
+373,Creamy Crackers - Original,Gourmet & World Food,Chocolates & Biscuits,Sapphire,180,180,Crackers & Digestive,4.3
+374,Dried - Cranberries 200G + Prunes 200G + Apricots  200G + Blueberries 150G,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Happilo,1280,1280,Dry Fruits & Berries,
+375,Milly Magic Chocolate Balls - Gluten Free,Snacks & Branded Foods,Breakfast Cereals,Schar,485,485,Kids Cereal,4
+376,Millet Based Nutrition Bar - Classic,Gourmet & World Food,Cereals & Breakfast,Ah!rogya Bar,20,20,Cereal & Granola Bars,4
+377,"Bathroom Cleaner - Liquid, Hand Made",Cleaning & Household,All Purpose Cleaners,Wild Ideas,120,120,Toilet Cleaners,3.5
+378,Kodo Millet Rice - Pesticide Free,"Foodgrains, Oil & Masala",Dals & Pulses,Safe Harvest,84.15,85,Cereals & Millets,4.1
+379,Amla Juice,Beverages,Fruit Juices & Drinks,Patanjali,220,220,Juices,
+380,Cheddar - English,Gourmet & World Food,Dairy & Cheese,Dairy Craft,530,530,International Cheese,
+381,Power - Fresh Breath Fluoride Toothpaste 100 g + Sensitive Toothpaste 80 g,Beauty & Hygiene,Oral Care,Clove,203.99,240,Toothpaste,
+382,"Matcha Moringa Bar Bites - Mini, Gluten-free, Vegan",Gourmet & World Food,Chocolates & Biscuits,She made,112.56,168,"Cookies, Biscotti, Wafer",
+383,Sugar Free Juice - Lemon Ginger Squash,Beverages,Fruit Juices & Drinks,Diabetics Dezire,330,330,Juices,
+384,Wipeout Germ Killing Soap,Beauty & Hygiene,Bath & Hand Wash,MyGlamm,55.2,69,Hand Wash & Sanitizers,4
+385,Jelly Crystal - Raspberry,Gourmet & World Food,Cooking & Baking Needs,Puramate,40.5,45,"Baking, Cake Decorations",4.4
+386,Black Tea,Beverages,Tea,Tetley,155,155,Tea Bags,4.3
+387,Grainy Delight,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Nutriplate,150,150,Roasted Seeds & Nuts,
+388,"Kitchen Cleaning/Dusting Microfibre Cloth - Grey, G130060GR",Cleaning & Household,"Mops, Brushes & Scrubs",Liao,239.2,299,Dust Cloth & Wipes,4.3
+389,Amla Churna,Beauty & Hygiene,Health & Medicine,Dabur,80,80,Ayurveda,
+390,Professional Herbal Orange Facial Massage Cream,Beauty & Hygiene,Skin Care,Olivia,191.25,225,Body Care,
+391,Eggless Mayonnaise Dip,Gourmet & World Food,"Sauces, Spreads & Dips",HappyChef,119,149,Salad Dressings,
+392,Nilgiri Green Tea - Yakuso Tulsi,Gourmet & World Food,Drinks & Beverages,Teamonk,525,750,Gourmet Tea & Tea Bags,
+393,"Peri Peri Sauce - Bird Eye Chili, Hot & Tangy",Gourmet & World Food,"Sauces, Spreads & Dips",Habanero,161.1,179,Thai & Asian Sauces,4.1
+394,"Menstrual Cup - Wings, Pratham",Beauty & Hygiene,Feminine Hygiene,Stonesoup,489,489,Tampons & Menstrual Cups,
+395,Wonderz Milk Fruit N Milk - Mango,"Bakery, Cakes & Dairy",Dairy,Sunfeast,29.75,35,"Flavoured, Soya Milk",4.1
+396,Cow Ghee/Tuppa,"Foodgrains, Oil & Masala",Edible Oils & Ghee,Himalayan Natives,432,540,Ghee & Vanaspati,3.4
+397,"Organic - Black Cardamom Ealachi, Whole","Foodgrains, Oil & Masala",Organic Staples,bb Royal,44,47,Organic Masalas & Spices,4
+398,Ultimate Choco Berry,Snacks & Branded Foods,Chocolates & Candies,RiteBite Max Protein,950,950,Granola & Cereal Bars,4.9
+399,Steel Belly Shape Storage Dabba/ Container Set With PP Lid - Silver & Blue,"Kitchen, Garden & Pets",Steel Utensils,Jensons,219,995,Steel Storage Containers,3.8
+400,Kool - Koko,"Bakery, Cakes & Dairy",Dairy,Amul,111,120,"Flavoured, Soya Milk",4.3
+401,"Apple Cider Vinegar - With Mother, Unfiltered & Unpasteurized",Gourmet & World Food,Oils & Vinegar,TrueNature,500,500,Balsamic & Cider Vinegar,5
+402,Dare Deodorant Spray - Men,Beauty & Hygiene,Fragrances & Deos,Kamasutra,210,210,Men's Deodorants,3.9
+403,Svachh DLX Alpha Steel Outer Lid Pressure Cooker (20247),"Kitchen, Garden & Pets",Cookware & Non Stick,Prestige,2060,2290,Pressure Cookers,3.3
+404,Hydrating Body Lotion,Beauty & Hygiene,Skin Care,Nutrinorm,349,349,Body Care,4
+405,Nuts & Seeds Bar,Snacks & Branded Foods,Breakfast Cereals,RiteBite Max Protein,36,40,Granola & Cereal Bars,3.8
+406,"Nacho Chips - Cheese With Herbs, No Onion, No Garlic",Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Makino,46.9,70,Nachos & Chips,4.2
+407,Pistachio,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Rostaa,307.2,480,Dry Fruits & Berries,
+408,7 O Click - Permasharp Stainless Blade,Beauty & Hygiene,Men's Grooming,Gillette,21.56,22,Shaving Care,4.1
+409,Classic Sandalwood & Tulsi Hand Wash,Beauty & Hygiene,Bath & Hand Wash,Santoor,209,209,Hand Wash & Sanitizers,3.8
+410,Chai/Stainless Steel Cups - For The Love Of Tea,"Kitchen, Garden & Pets",Crockery & Cutlery,Hot Muggs,395,395,"Cups, Mugs & Tumblers",
+411,Brass Karpoor Arti - No.2,Cleaning & Household,Pooja Needs,Trm,109,225,Other Pooja Needs,3.8
+412,Nikhaar Hair Removal Cream For All Skin Types,Beauty & Hygiene,Feminine Hygiene,Veet,82,82,Hair Removal,4.1
+413,Original Care Lip Balm For 24h Moisture With Shea Butter & Natural Oils,Beauty & Hygiene,Skin Care,Nivea,114.8,140,Lip Care,4.3
+414,"Plastic Insulated Jr Casserole For Roti/Chapati Gift Set - White, Regalia","Kitchen, Garden & Pets",Flask & Casserole,Milton,739,910,Casserole,3.5
+415,Sunspray Sunscreen SPF 30,Beauty & Hygiene,Skin Care,INATUR ,292.5,450,Face Care,
+416,Vastu Combo Pack - Floor Cleaner + toilet cleaner,Cleaning & Household,All Purpose Cleaners,Runaway,319,319,Floor & Other Cleaners,3.6
+417,"Water Flask - Insulated Thermosteel, Flip Lid , Silver","Kitchen, Garden & Pets",Flask & Casserole,Milton,879,1095,Vacuum Flask,4.2
+418,Drumstick - Organically Grown,Fruits & Vegetables,Organic Fruits & Vegetables,Fresho,13,16.25,Organic Vegetables,
+419,Up Or Down Eau De Toilette Deodorant - For Man,Beauty & Hygiene,Men's Grooming,Nike,223.2,279,Men's Deodorants,
+420,"Ultra Healing - Extra Dry Skin Moisturiser With Vitamin C, E & B5",Beauty & Hygiene,Skin Care,Jergens,296.1,329,Body Care,2
+421,"Organic, Fennel /Saunf/Sompu Powder","Foodgrains, Oil & Masala",Masalas & Spices,bb Royal,23,25,Organic Masalas & Spices,4.1
+422,Coconut Braker - Big,"Kitchen, Garden & Pets",Kitchen Accessories,Kvg,129,169,Kitchen Tools & Other Accessories,3
+423,Truffel - Caramel,Snacks & Branded Foods,Chocolates & Candies,Dukes,190,200,Chocolates,3.7
+424,Conditioner - Hair Repair,Beauty & Hygiene,Hair Care,Richfeel,161,161,Shampoo & Conditioner,
+425,"Stainless Steel Water Bottle - Blue, BB506 3","Kitchen, Garden & Pets",Storage & Accessories,DP,249,470,Water & Fridge Bottles,
+426,Mischief Avatar Deodorant & Body Spray Perfume For Men,Beauty & Hygiene,Fragrances & Deos,Set Wet,121,199,Men's Deodorants,3.8
+427,Skin Fruits Fruit Moisturising Body Lotion,Beauty & Hygiene,Skin Care,Joy,68.85,81,Body Care,4.1
+428,Multipurpose Germ Protection Anti-Bacterial Wipes With Lemon Fragrance,Cleaning & Household,All Purpose Cleaners,Corsafe Advance,100,100,Disinfectant Spray & Cleaners,
+429,Basmati Rice/Basmati Akki - Rozana Super 90,"Foodgrains, Oil & Masala",Rice & Rice Products,Daawat ,340,390,Basmati Rice,3.9
+430,Milk power Frappe Milkshake - Belgian Chocolate,"Bakery, Cakes & Dairy",Dairy,Real,27,30,"Flavoured, Soya Milk",4.2
+431,"Peanut Butter - Unsweetened, Crunchy",Snacks & Branded Foods,"Spreads, Sauces, Ketchup",Happy Jars,275,275,Choco & Nut Spread,3.8
+432,Salem Turmeric Powder/Arisina Pudi,"Foodgrains, Oil & Masala",Masalas & Spices,Orika,24.75,33,Powdered Spices,4.4
+433,Body Fragrance - Alexander,Beauty & Hygiene,Fragrances & Deos,Park avenue,149.25,199,Men's Deodorants,4.3
+434,"Steel Storage/Lunch Container- No.1, Blue, Klip It","Kitchen, Garden & Pets",Steel Utensils,Joyo Steel,79,119,Steel Storage Containers,3.1
+435,Ladies Finger,Fruits & Vegetables,Fresh Vegetables,Fresho,26.73,35,"Beans, Brinjals & Okra",
+436,Aloe Vera Juice - Purifies Blood & Boosts Immunity,Gourmet & World Food,Drinks & Beverages,Jiva Ayurveda,220,220,Health Drinks,1
+437,"Balloon - Polka Dot, 12 Inch",Cleaning & Household,Party & Festive Needs,B Vishal,99,129,"Caps, Balloons & Candles",3.9
+438,School/Stationery Kit,Cleaning & Household,Stationery,BIC Cello,49,49,"Pen, Pencils",4.1
+439,Face Wash - White Tea & Chamomile,Beauty & Hygiene,Skin Care,Aroma Magic ,129.5,185,Face Care,4.2
+440,Bathroom Cleaner,Cleaning & Household,All Purpose Cleaners,PureCult,209.3,299,Toilet Cleaners,4
+441,Imperial Desert Set - Aqua Leaves,"Kitchen, Garden & Pets",Crockery & Cutlery,Cello,419,625,Plates & Bowls,2.8
+442,Solitaire Storage Transparent Pet Container Set - Green Lid,"Kitchen, Garden & Pets",Storage & Accessories,Steelo,409,969,Containers Sets,4.2
+443,Organic Cold Pressed Virgin Coconut Oil,Gourmet & World Food,Oils & Vinegar,GoodDiet,239,365,Organic & Cold Press Oil,4.4
+444,DiaFree Juice,Beverages,Fruit Juices & Drinks,Kapiva Ayurveda,420,420,Juices,
+445,Hand Wash Rose & Geranium - Anti Bacterial,Beauty & Hygiene,Bath & Hand Wash,Morpheme Remedies,349,349,Hand Wash & Sanitizers,5
+446,Namkeen - Flattend Rice Mixture,Snacks & Branded Foods,Snacks & Namkeen,Sln  ,38,38,Namkeen & Savoury Snacks,4
+447,Borosilicate Glass Rectangular Food Container With Green Lid,"Kitchen, Garden & Pets",Storage & Accessories,BB Home,209,339,Containers Sets,
+448,Black Naturals,Beauty & Hygiene,Hair Care,Garnier,37,39,Hair Color,4.2
+449,Sorghum Rava/ Semolina,Gourmet & World Food,Cooking & Baking Needs,Dhatu Organics & Naturals,80,80,Flours & Pre-Mixes,4.4
+450,Sensitive Toothpaste - Fresh Mint,Beauty & Hygiene,Oral Care,Sensodyne,215.6,230,Toothpaste,4.3
+451,Floor Cleaner - Lime,Cleaning & Household,All Purpose Cleaners,Floroma,70,70,Floor & Other Cleaners,3.8
+452,Hair Serum - Anti-Dandruff,Beauty & Hygiene,Hair Care,Aroma Magic ,637.5,750,Hair Oil & Serum,1
+453,"Face Mask 3-Layer Surgical - Disposable, Anti-Dust & Anti-Pollution, With Earloop",Beauty & Hygiene,Health & Medicine,Octus,79,99,Face Masks & Safety Gears,3.5
+454,Veda Keto-Slim Ultra Weight Loss,Beauty & Hygiene,Health & Medicine,Vedapure,1699,1699,Ayurveda,
+455,"Basmati Rice Mini Mogra, Broken/Tukda 5 Kg + Wheat Flour (Chakki Atta) 10 Kg","Foodgrains, Oil & Masala",Rice & Rice Products,bb Royal,575,745,Basmati Rice,
+456,Tapioca,Fruits & Vegetables,Fresh Vegetables,Fresho,17,21.25,Root Vegetables,
+457,Organic - Kalonji,"Foodgrains, Oil & Masala",Organic Staples,Organic Tattva,47.5,50,Organic Masalas & Spices,4.2
+458,Savoury - Pizza,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Miaow Miaow,190,190,"Healthy, Baked Snacks",
+459,Water/Juice Glass Tumbler - Volvic 3303,"Kitchen, Garden & Pets",Crockery & Cutlery,Roxx,425,425,Glassware,
+460,Red Poha,"Foodgrains, Oil & Masala",Organic Staples,Turn Organic ,80,80,"Organic Rice, Other Rice",4
+461,Brightening Serum,Beauty & Hygiene,Skin Care,Kaya Clinic,942,1450,Face Care,4
+462,Ivory Glass Bottle - Orange & Yellow Floral,"Kitchen, Garden & Pets",Storage & Accessories,Treo,190,190,Water & Fridge Bottles,
+463,Sheer Perfume For Women - EDP,Beauty & Hygiene,Fragrances & Deos,Skinn by Titan,1435.5,1595,Eau De Parfum,4.4
+464,Dog Treats - Diced Chicken,"Kitchen, Garden & Pets",Pet Food & Accessories,Chip Chops,195,195,Pet Meals & Treats,
+465,Baking Powder - Double Acting,Gourmet & World Food,Cooking & Baking Needs,By Nature,145,145,"Baking, Cake Decorations",5
+466,"Ready Mix - Kheer, Vermicelli",Snacks & Branded Foods,Ready To Cook & Eat,Gits,53,60,Dessert Mixes,4.3
+467,Scrubbing Broom Brush - Outdoor,Cleaning & Household,"Mops, Brushes & Scrubs",Ezy Be,256.5,285,Toilet & Other Brushes,4.5
+468,Organic Wheat Dalia,"Foodgrains, Oil & Masala",Organic Staples,Organic Tattva,52.25,55,Organic Flours,4.1
+469,Moisturizing Body Bath - Green Tea & Milk,Beauty & Hygiene,Bath & Hand Wash,Skin Cottage ,279,279,Shower Gel & Body Wash,
+470,The Original Kashaya - Caffeine Free,Gourmet & World Food,Drinks & Beverages,6 Rasa,279,279,Health Drinks,4.8
+471,Nizami Hyderabadi Cuisine,Gourmet & World Food,Cooking & Baking Needs,Cafe Junyali,395,395,"Curry Paste, Coconut Milk",
+472,Elegance Deodorizing Talc - For Men,Beauty & Hygiene,Men's Grooming,Yardley London,157.25,185,Talc,4.4
+473,"LED Bulb - 10 Watt CDL Round Base Lyor 5 Star Series, Cool Day Light White, B22","Kitchen, Garden & Pets",Appliances & Electricals,Crompton,149,285,CFL & Led Bulbs,
+474,Organic Rasam Ready Mix - Long Pepper,Snacks & Branded Foods,Ready To Cook & Eat,Aaha Oho,85,85,Breakfast & Snack Mixes,4.2
+475,Gold Caramel Candy,Snacks & Branded Foods,Chocolates & Candies,ALPENLIEBE,50,50,"Toffee, Candy & Lollypop",4.3
+476,Masala - Birayani Pulao,"Foodgrains, Oil & Masala",Masalas & Spices,Mdh,80,80,Blended Masalas,4.2
+477,Hair Fall Control Oil,Beauty & Hygiene,Hair Care,Dr Batra's ,145,290,Hair Oil & Serum,4
+478,Bio Renew White Strawberry & Sweet Mint Conditioner,Beauty & Hygiene,Hair Care,Herbal Essence,468,650,Shampoo & Conditioner,4.4
+479,"Comfort Bathroom Stool Plastic/Patla - Plain, Big, Assorted",Cleaning & Household,Bins & Bathroom Ware,JOYO,259,426,"Bath Stool, Basin & Sets",3.4
+480,Bounce Biscuits - Elaichi Creme,Snacks & Branded Foods,Biscuits & Cookies,Sunfeast,27,30,Cream Biscuits & Wafers,4.1
+481,"Pumice Stone & Emery Foot Filer - FFL3407, Colour May Vary",Beauty & Hygiene,Bath & Hand Wash,Kaiv,175,175,Bathing Accessories,3.8
+482,Olive Oil - Classic,Gourmet & World Food,Oils & Vinegar,La Espanola,589,1350,"Pure, Pomace Olive Oil",
+483,Light Soy Sauce - Reduced Salt,Gourmet & World Food,"Sauces, Spreads & Dips",Tai Hua,346.5,385,Thai & Asian Sauces,3.9
+484,"Kitchen Cleaning/Dusting Microfibre Cloth - Red & Grey, G130064RG",Cleaning & Household,"Mops, Brushes & Scrubs",Liao,219,258,Dust Cloth & Wipes,4
+485,Painting Kit,Cleaning & Household,Stationery,Doms,196,199,Colours & Crayons,4.7
+486,Diamond Skin Brightening Kit - Consumer Pack,Beauty & Hygiene,Skin Care,Joy,150,250,Face Care,4
+487,Organic - Turmeric Powder/Arisina Pudi,"Foodgrains, Oil & Masala",Organic Staples,Turn Organic ,32,40,Organic Masalas & Spices,4.7
+488,Natural Neem Agarbatti,Cleaning & Household,Fresheners & Repellents,Good knight,180,180,Mosquito Repellent,3
+489,Raspberry Strawberry Preserve,Gourmet & World Food,"Sauces, Spreads & Dips",The Gourmet Jar,349,349,"Jams, Marmalade, Spreads",3.5
+490,Meghdoot Honey Almond Body Lotion,Beauty & Hygiene,Skin Care,Meghdoot,195,195,Body Care,
+491,Hajmola Maha Candy - Aam+Imli,Beauty & Hygiene,Health & Medicine,Dabur,117,130,Supplements & Proteins,4.4
+492,Rice Bran Oil,"Foodgrains, Oil & Masala",Edible Oils & Ghee,Fortune ,173,215,"Sunflower, Rice Bran Oil",4.1
+493,"N95 Washable Face Mask - Blue, Medium",Beauty & Hygiene,Health & Medicine,Nirvana,299,395,Face Masks & Safety Gears,3.8
+494,Coriander Powder,"Foodgrains, Oil & Masala",Masalas & Spices,Patanjali,24,24,Powdered Spices,4.2
+495,Dressing - Creamy Caesar,Gourmet & World Food,"Sauces, Spreads & Dips",American Garden ,270,270,Salad Dressings,3.9
+496,Shishu Taila - For Healthy Skin & Stronger Bones,Beauty & Hygiene,Health & Medicine,Sri Sri Tattva,200,200,Ayurveda,
+497,Chocolate Flavoured Lubes,Beauty & Hygiene,Health & Medicine,Skore,300,300,Sexual Wellness,2.3
+498,Free Range Eggs - Omega 3,"Eggs, Meat & Fish",Eggs,Happy Hens Farms,150,150,Farm Eggs,
+499,Whiteglow Skin Whitening & Brightening Gel Creme PA+++ - SPF 25,Beauty & Hygiene,Skin Care,Lotus Herbals,292.5,390,Face Care,4.3
+500,Premium Californian Roasted & Salted Pistachios - Value Pack,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Happilo,656.25,875,Dry Fruits & Berries,
+501,Active Baby Medium (6-11 kg) - 62 Diapers,Baby Care,Diapers & Wipes,Pampers ,1077.02,1099,Diapers,4.4
+502,Nutrition & Health Drink - Pista Badam,Beverages,"Health Drink, Supplement",Complan,315,315,Kids (5+Yrs),4.4
+503,Chocolate Biscuits - Cream 4 Fun,Snacks & Branded Foods,Biscuits & Cookies,Dukes,25,30,Cream Biscuits & Wafers,4
+504,Oat Krunch - Dark Chocolate,Gourmet & World Food,Chocolates & Biscuits,Munchys,125,125,"Cookies, Biscotti, Wafer",5
+505,Soft & Fresh Soap Bar,Beauty & Hygiene,Bath & Hand Wash,Pears,72,72,Bathing Bars & Soaps,4.4
+506,Oxygen Moisture Shampoo,Beauty & Hygiene,Hair Care,Dove,466.2,630,Shampoo & Conditioner,4.2
+507,"Almond Milk - Unsweetened, Lactose-Free, Plant-Based Milk Alternative",Gourmet & World Food,Dairy & Cheese,Urban Platter,237.5,250,Milk & Soya Drinks,4.2
+508,Herbal Vedaprash Immunity Booster,Beauty & Hygiene,Health & Medicine,Vedapure,649,649,Ayurveda,
+509,"Table Ring - Trivet Round, Dia-13 cm","Kitchen, Garden & Pets",Kitchen Accessories,Kvg,45,59,Kitchen Tools & Other Accessories,3.7
+510,Premium International Healthy Nutmix - Value Pack,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Happilo,401.33,599,Dry Fruits & Berries,
+511,Non Scratch Sponge,Cleaning & Household,"Mops, Brushes & Scrubs",Scotch brite,57,70,"Utensil Scrub-Pad, Glove",4.3
+512,Premium Care XXXL - 23 Diaper Pants,Baby Care,Diapers & Wipes,Pampers ,850.26,1149,Diapers,3.8
+513,Drumstick - Organically Grown,Fruits & Vegetables,Fresh Vegetables,Fresho,13,16.25,Organic Vegetables,
+514,Moisturzing Cream - Intense,Beauty & Hygiene,Skin Care,Dr.Batra'S,175,350,Face Care,
+515,Shikakai - Amla and Bhringraj,Beauty & Hygiene,Bath & Hand Wash,Godrej,20.9,22,Bathing Bars & Soaps,4.2
+516,Amritsari Chhole Masala,"Foodgrains, Oil & Masala",Masalas & Spices,Keya,40.95,63,Blended Masalas,4.1
+517,Meswak Toothpaste,Beauty & Hygiene,Oral Care,Dabur,426.3,525,Toothpaste,4.3
+518,Tofu Supreme - Regular,"Bakery, Cakes & Dairy",Non Dairy,Soyfit,108,120,"Paneer, Tofu & Cream",2.8
+519,Honey Sunflower,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Tong Garden,110.5,130,Roasted Seeds & Nuts,4.7
+520,Premium Raw Organic Authentic Flaxseeds,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Happilo,59.4,99,Roasted Seeds & Nuts,4.5
+521,Ultra Protect Spray,Beauty & Hygiene,Bath & Hand Wash,Dr Rhazes,340,400,Hand Wash & Sanitizers,3.5
+522,Chia Mango Mint Jam,Gourmet & World Food,"Sauces, Spreads & Dips",Prasukh,126,140,"Jams, Marmalade, Spreads",3.5
+523,Asafoetida - Powder,"Foodgrains, Oil & Masala",Masalas & Spices,Double Horse,90.25,95,Powdered Spices,4.3
+524,"Pure Maple Syrup - Product Of Canada, Grade A, Robust Taste",Gourmet & World Food,"Sauces, Spreads & Dips",Urban Platter,900,1000,Honey & Maple Syrup,4.7
+525,Flucon Tablets - Fights Allergy Naturally,Beauty & Hygiene,Health & Medicine,Jiva Ayurveda,110,110,Ayurveda,
+526,Tagara (Valerian) - Tablets,Beauty & Hygiene,Health & Medicine,Himalaya Wellness,145.2,165,Supplements & Proteins,4.8
+527,Masala - Pav Bhaji,"Foodgrains, Oil & Masala",Masalas & Spices,Eastern,66,66,Blended Masalas,4.1
+528,Cereal Flip Lid Container/Storage Jar - Assorted Colour,Cleaning & Household,Bins & Bathroom Ware,Nakoda,79,107,"Laundry, Storage Baskets",4.6
+529,Greek Yogurt Smoothie - Strawberry,Gourmet & World Food,Drinks & Beverages,Epigamia ,49,70,Milk & Soya Drinks,4
+530,Marvel Spiderman Metal Kids Pencil Box,Cleaning & Household,Stationery,Hm International,149,149,Exam Pads & Pencil Box,3
+531,Jeera Nibbles,Snacks & Branded Foods,Biscuits & Cookies,Dukes,39,50,Salted Biscuits,4.1
+532,Pure Aloe Vera Gel,Beauty & Hygiene,Skin Care,Jeva,107,150,Body Care,3.7
+533,Organic Quinoa Power Rice Cake,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Wise Crack,126.65,149,"Healthy, Baked Snacks",
+534,Hair Styling Gel - High Hold With Wet Looks,Beauty & Hygiene,Men's Grooming,Man Arden,299,299,Hair Care & Styling,
+535,Brazil - Single Origin Dark Chocolate,Gourmet & World Food,Chocolates & Biscuits,Toska Chocolates,320,320,"Luxury Chocolates, Gifts",5
+536,Sesame Chikki,Snacks & Branded Foods,Indian Mithai,Paper Boat,300,300,Chikki & Gajjak,4
+537,Jerk Sauce,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",Bechef,160,200,Chilli & Soya Sauce,5
+538,Organic Elicoidali Pasta,Gourmet & World Food,"Pasta, Soup & Noodles",Anmara,396,495,Pastas & Spaghetti,5
+539,Elegant Fruit Center Filled Choco Assortment,Gourmet & World Food,Chocolates & Biscuits,KOKOLEKA,267.75,315,"Marshmallow, Candy, Jelly",5
+540,"Basting Brush Kitchen Oil Cooking Tool - Silicon Plastic, Pink/Peach Assorted, BB1166","Kitchen, Garden & Pets",Bakeware,Casasunco,139,189,Baking Tools & Brushes,4.4
+541,Baby Powder With Fragrance,Baby Care,Baby Bath & Hygiene,Pigeon,99,99,Baby Powder,3.8
+542,Supple Bounce Body Lotion,Beauty & Hygiene,Skin Care,Dove,105.6,110,Body Care,4.5
+543,Glass Serving Mixing Bowl,"Kitchen, Garden & Pets",Crockery & Cutlery,Gupta Glass Ideas,169,299,Glassware,2.8
+544,Tawa Pav Bhaji Masala,"Foodgrains, Oil & Masala",Masalas & Spices,Keya,39.6,66,Blended Masalas,4
+545,"Bathing Bar Soap - Germ Protection, Original",Beauty & Hygiene,Bath & Hand Wash,Dettol,335.81,440,Bathing Bars & Soaps,4.3
+546,Nylon Rope,Cleaning & Household,Bins & Bathroom Ware,SSS,80,80,Other Plastic Ware,4.2
+547,Cleaner - Jewelery,Cleaning & Household,All Purpose Cleaners,Weiman,575,575,Floor & Other Cleaners,
+548,Tasty Ragi Chivda,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Graminway,99,99,"Healthy, Baked Snacks",
+549,Crunchy & Creame Wafer Biscuit - Vanilla,Gourmet & World Food,Chocolates & Biscuits,Harveys,89.1,99,"Cookies, Biscotti, Wafer",3.3
+550,Fevicryl - Pearl Kit,Cleaning & Household,Stationery,Pidilite,108,110,Colours & Crayons,4.2
+551,"Deluxe Granite Non-Stick Omni Tawa, 250 mm (36301)","Kitchen, Garden & Pets",Cookware & Non Stick,Prestige,870,1020,Tawa & Sauce Pan,3.5
+552,"Granola - Choco, Almond & Cookies",Snacks & Branded Foods,Breakfast Cereals,Fit & Flex,245,265,Granola & Cereal Bars,
+553,Peanut Brittle - With Jaggery,Gourmet & World Food,Chocolates & Biscuits,Lindberg,119,199,"Luxury Chocolates, Gifts",
+554,For Man Eau De Toilette,Beauty & Hygiene,Fragrances & Deos,Jacques Bogart,2415,3450,Eau De Toilette,2
+555,"Novawhite Glutathione & Vitamin C Cream - For Men & Women, Suitable For all Skin Types",Beauty & Hygiene,Skin Care,Bionova,675,675,Face Care,
+556,"Klick Lead - 10HB, 10 Leads",Cleaning & Household,Stationery,Camlin,98,100,"Pen, Pencils",
+557,Bhumyalakki Tablets,Beauty & Hygiene,Health & Medicine,Muniyal Ayurveda,120,120,Ayurveda,
+558,Juice/Milk Mugs,"Kitchen, Garden & Pets",Crockery & Cutlery,Yera,229,280,Glassware,3
+559,Pizza Topping,Gourmet & World Food,Tinned & Processed Food,HappyChef,139,189,"Olive, Jalapeno, Gherkin",
+560,Shaving Foam,Beauty & Hygiene,Men's Grooming,Red Hunt,68,85,Shaving Care,2.5
+561,Mix - Rava Dosai,Snacks & Branded Foods,Ready To Cook & Eat,Gits,60,60,Breakfast & Snack Mixes,4.3
+562,Aloe Vera - Organically grown,Fruits & Vegetables,Exotic Fruits & Veggies,Fresho,40,50,Organic Vegetables,
+563,"Green Tea - Mint, Good morning",Beverages,Tea,Wagh Bakri,75,150,Green Tea,4.5
+564,Bathing Soap - Cucumber & Coconut,Beauty & Hygiene,Bath & Hand Wash,Himalaya,99.36,120,Bathing Bars & Soaps,4.2
+565,Imitation - Crab Sticks,"Eggs, Meat & Fish",Fish & Seafood,Gadre,195,195,Frozen Fish & Seafood,
+566,Shot Body Spray - Royal Jade,Beauty & Hygiene,Fragrances & Deos,Layerr,165.75,195,Men's Deodorants,4.5
+567,Camne Vid,Beauty & Hygiene,Health & Medicine,Dabur,572,572,Ayurveda,
+568,Madrid - Dessert Spoons,"Kitchen, Garden & Pets",Crockery & Cutlery,FNS,359,510,"Cutlery, Spoon & Fork",5
+569,Raw Chia Basil Seeds,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",True Elements,450,450,"Healthy, Baked Snacks",
+570,Jalapeno Pasta Sauce 385 g + Sriracha Chilli Sauce 185 g + Hot Sauce 75 ml,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",Habanero,475.2,528,Chilli & Soya Sauce,
+571,"Shot Body Spray - Gold, Passion",Beauty & Hygiene,Fragrances & Deos,Layerr,175.5,195,Body Sprays & Mists,4.3
+572,Toilex With Roundy Cont.- Vf,Cleaning & Household,"Mops, Brushes & Scrubs",Gala,220,220,Toilet & Other Brushes,2
+573,"Toilet Roll - 4 Rolls, 3 ply",Cleaning & Household,"Disposables, Garbage Bag",Paseo,325,325,Toilet Paper,4.1
+574,Pumpkin Oil - Cold Pressed,Gourmet & World Food,Oils & Vinegar,Health 1st,625,625,Flavoured & Other Oils,
+575,Darjeeling White Teabags - Reeti,Beverages,Tea,Teamonk,525,875,Exotic & Flavoured Tea,
+576,Twin Bucket Spin Mop - Green - 2 Refills,Cleaning & Household,"Mops, Brushes & Scrubs",Scotch brite,1150,1300,"Mops, Wipers",2.8
+577,Expanding Folder,Cleaning & Household,Stationery,B Vishal,224,329,"Notebooks, Files, Folders",3.6
+578,Mouthwash Liquid - Cool Mint With Mild Taste,Beauty & Hygiene,Oral Care,Listerine,220.5,245,Mouthwash,4.3
+579,Quick Chai Masala,Beverages,Tea,Tata Tea,109.2,140,Leaf & Dust Tea,3.5
+580,Non Alcoholic Beverage - Mango Chilli Mojito Mixer,Gourmet & World Food,Drinks & Beverages,JIMMY'S COCKTAILS,99,99,Cocktail Mixes,
+581,Intimate Lightening Serum,Beauty & Hygiene,Skin Care,Namyaa,750,750,Intimate Wash & Care,4
+582,Olive Oil - Pomace,Gourmet & World Food,Oils & Vinegar,La Espanola,309,889,"Pure, Pomace Olive Oil",
+583,X-Tenso Care Straight Masque,Beauty & Hygiene,Hair Care,LOreal Professionnel,685,685,Hair & Scalp Treatment,4
+584,Monosodium Glutamate,Gourmet & World Food,Cooking & Baking Needs,Puramate,31.5,35,"Baking, Cake Decorations",4.5
+585,Pomace Olive Oil,Gourmet & World Food,Oils & Vinegar,Fragata,325,325,"Pure, Pomace Olive Oil",
+586,"Puppy Dog Treat - Chicken & Liver Chunks, (Rs 25 Off ) Value Saver Pack","Kitchen, Garden & Pets",Pet Food & Accessories,Pedigree,465,500,Pet Meals & Treats,4.5
+587,Masala - Vegetable,"Foodgrains, Oil & Masala",Masalas & Spices,Eastern,43.7,46,Blended Masalas,4.1
+588,Cheese - Mozzarella & Cheddar,Gourmet & World Food,Dairy & Cheese,Dairy Craft,240,240,International Cheese,
+589,Baby Oil With Fruit Extracts,Baby Care,Baby Bath & Hygiene,Mee Mee,343.2,429,Baby Oil & Shampoo,
+590,Soya Milk - Vanilla,"Bakery, Cakes & Dairy",Non Dairy,Sofit ,77.17,105,"Flavoured, Soya Milk",4.2
+591,Sunlite Spray,Beauty & Hygiene,Skin Care,Aroma Magic ,475,475,Face Care,
+592,Max Fresh New Super Plastic Lunch Box/Tiffin Box - Blue,"Kitchen, Garden & Pets",Storage & Accessories,Cello,469,602,Lunch Boxes,4.5
+593,Fruit Yoghurt - Mango,"Bakery, Cakes & Dairy",Dairy,Milky Mist,79,160,Yogurt & Shrikhand,4
+594,Chipotle Pepper Sauce,Gourmet & World Food,Cooking & Baking Needs,Tabasco,749,749,"Curry Paste, Coconut Milk",4.8
+595,Dairy Milk Black Forest - Imported,Gourmet & World Food,Chocolates & Biscuits,Cadbury,350,350,International Chocolates,5
+596,Organic Brown Sugar/Sakkare,"Foodgrains, Oil & Masala",Organic Staples,MeraKisan,77,77,"Organic Sugar, Jaggery",4.1
+597,Ready to Eat - Chicken Darbari,Snacks & Branded Foods,Ready To Cook & Eat,Kitchens Of India,190,200,Heat & Eat Ready Meals,3.9
+598,Nuts Hazelnuts regular,Gourmet & World Food,Chocolates & Biscuits,Sapphire,400,400,"Luxury Chocolates, Gifts",3
+599,Roasted Sunflower Pumpkin & Flax Seeds,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",True Elements,500,500,Roasted Seeds & Nuts,4.2
+600,Organic Paneer,"Bakery, Cakes & Dairy",Dairy,Farm Connect,115,125,"Paneer, Tofu & Cream",3.1
+601,"Multipurpose Plastic Basket - Laundry/Clothes, Blue, Oval",Cleaning & Household,Bins & Bathroom Ware,Ratan,149,230,"Laundry, Storage Baskets",3.6
+602,"Man-In-Charge - Aqua Blue, Eau De Parfum",Beauty & Hygiene,Fragrances & Deos,OGA,700,700,Eau De Parfum,
+603,Ayurvedic Karela Powder,Beauty & Hygiene,Health & Medicine,Meghdoot,60,60,Ayurveda,
+604,Sweetss - Badam halwa,Snacks & Branded Foods,Indian Mithai,Sangam Sweets,600,600,Fresh Sweets,
+605,Pre Shave Foam - Classic Sensitive Skin,Beauty & Hygiene,Men's Grooming,Gillette,180,225,Shaving Care,4.3
+606,Tomato Ketchup,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",Madhur,110,110,Tomato Ketchup & Sauces,4
+607,Premium Flat Square Plastic Container Set - Blue,"Kitchen, Garden & Pets",Storage & Accessories,Mastercook,69,115,Containers Sets,4.1
+608,Lime Fresh 500 ml + Laundry San- Spring Blossom 480 ml,Cleaning & Household,All Purpose Cleaners,Dettol,303.3,363,Disinfectant Spray & Cleaners,
+609,Touch 'N' Fresh - Wild Lavender,Cleaning & Household,Fresheners & Repellents,Glade,120,120,Air Freshener,4
+610,Crushed Chikki Peanut Bar,Snacks & Branded Foods,Indian Mithai,Paper Boat,300,300,Chikki & Gajjak,4.1
+611,"Sausage - Chicken, Cocktail","Eggs, Meat & Fish","Sausages, Bacon & Salami",Quickee'S,205,205,Chicken Sausages,
+612,Make Up Remover+Brightening Nigt Cream,Beauty & Hygiene,Skin Care,Kaya Clinic,869,1230,Face Care,
+613,Pore Shrinking Face Pack,Beauty & Hygiene,Skin Care,TJORI,299.4,499,Face Care,5
+614,Wafers - Vanilla & Hazelnut,Gourmet & World Food,Chocolates & Biscuits,Harveys,67.5,75,"Cookies, Biscotti, Wafer",2.8
+615,Wasabi Coated Green Peas,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Tong Garden,70,70,"Healthy, Baked Snacks",
+616,Hair Spa Detoxifying Shampoo,Beauty & Hygiene,Hair Care,LOreal Professionnel,399,399,Shampoo & Conditioner,3.6
+617,Fruit Power Juice- Mixed Berries,Beverages,Fruit Juices & Drinks,Real,96.8,110,Juices,
+618,Nilgiris Green Tea - Zoho Lemongrass,Beverages,Tea,Teamonk,200,400,Exotic & Flavoured Tea,5
+619,Borosilicate Glass Round Food Container With Dark Blue Lid,"Kitchen, Garden & Pets",Storage & Accessories,BB Home,239,399,Containers Sets,
+620,Cloth Clip,Cleaning & Household,Bins & Bathroom Ware,Reliance,240,240,"Hangers, Clips & Rope",2.8
+621,Original Soap,Beauty & Hygiene,Bath & Hand Wash,Tabac,517.5,575,Bath & Shower,4
+622,Daily Defence Instant Fairness Cream,Beauty & Hygiene,Men's Grooming,Qraa Men,240,240,Face & Body,
+623,Kashmiri Kahwa Green Tea,Gourmet & World Food,Drinks & Beverages,TGL Co.,243.75,325,Gourmet Tea & Tea Bags,
+624,Cookies - Atta Desi Ghee,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",Tasties,37.25,149,"Bakery Biscuits, Cookies",
+625,Biscuits - Badam Pista,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",Tasties,85,99,"Bakery Biscuits, Cookies",
+626,Gulabari Moisturising Cold Cream,Beauty & Hygiene,Skin Care,Dabur,76.8,80,Face Care,4.2
+627,"Glass Bottle With Removable Fabric Cover - Grey, BB1317","Kitchen, Garden & Pets",Storage & Accessories,DP,209,389,Water & Fridge Bottles,
+628,All Time Plastic Soup Strainer - Assorted Colour,"Kitchen, Garden & Pets",Kitchen Accessories,All Time,48,52,"Strainer, Ladle, Spatula",3.7
+629,"Active Salt Toothpaste - Saver Pack 300 g + Mouthwash - Plax, Active Salt 250 ml",Beauty & Hygiene,Oral Care,Colgate,171.5,268,Toothpaste,
+630,"Baby Food with Sprouted Grains - Ragi Rich, 6+ Months, Rich in Vitamins & Minerals, No Milk",Baby Care,Baby Food & Formula,Manna ,99,99,Baby Food,4.1
+631,Biofluence Therapeutic Shampoo,Beauty & Hygiene,Hair Care,Hair4U,307.5,410,Shampoo & Conditioner,
+632,Vitamin D3 Tablets - 5000 IU D3,Beauty & Hygiene,Health & Medicine,PureFoods,550,550,Supplements & Proteins,
+633,Organic Kala Chana,"Foodgrains, Oil & Masala",Organic Staples,Organic Tattva,64,85,Organic Dals & Pulses,4
+634,Soya Nuts - Roasted,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Nutty Yogi,49,49,"Healthy, Baked Snacks",
+635,Potato Crisp Chips - Original,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Chizzpa,175,175,Nachos & Chips,
+636,5 Star Oreo Chocolate Bar,Snacks & Branded Foods,Chocolates & Candies,Cadbury,35,35,Chocolates,4.4
+637,Pad Thai Noodles,Gourmet & World Food,"Pasta, Soup & Noodles",Real Thai,210,210,Imported Noodles,4.3
+638,Xanthan Gum,Gourmet & World Food,Cooking & Baking Needs,Purix,90.25,95,"Baking, Cake Decorations",4
+639,Mint Seasoning,"Foodgrains, Oil & Masala",Masalas & Spices,Orika,59.25,79,Herbs & Seasoning,3.1
+640,Cranberry Kombucha,Gourmet & World Food,Drinks & Beverages,Toyo Kombucha,95,95,"Aerated, Still, Sparkling",
+641,Nomarks - Antimarks Soap For Normal Skin,Beauty & Hygiene,Health & Medicine,Bajaj,35,35,Bathing Bars & Soaps,4.4
+642,M1 Perfume Spray - For Men,Beauty & Hygiene,Men's Grooming,Engage,231,420,Men's Deodorants,4.3
+643,"Passiflora Herb Powder - Supports Low Stress, Strain & Low Blood Pressure",Beauty & Hygiene,Health & Medicine,Bixa Botanical,295,295,Ayurveda,
+644,Zeb Rise Wired 1200 DPI USB Optical High Precision Mouse,Cleaning & Household,Stationery,Zebronics,168,229,Electronic Accessories,
+645,Glass Cleaner,Cleaning & Household,All Purpose Cleaners,Excel Plus,129,129,"Kitchen, Glass & Drain",3.8
+646,Aika Snack Bowl Set,"Kitchen, Garden & Pets",Crockery & Cutlery,Craftel,159,245,Glassware,3.9
+647,Hyderabadi Dum Biryani Masala,Gourmet & World Food,Cooking & Baking Needs,As Chefs Cook,139.5,155,"Curry Paste, Coconut Milk",3.9
+648,Mogo Mogo Fruit Green Tea Make Brew Iced Tea or Hot Tea,Gourmet & World Food,Drinks & Beverages,TGL Co.,449.25,599,Gourmet Tea & Tea Bags,
+649,"Cat Treats - Salmon Rings, Purr-Fect","Kitchen, Garden & Pets",Pet Food & Accessories,Kittos,99,99,Pet Meals & Treats,3.3
+650,Breakfast Protein Variety Bar - Almond Coconut,Gourmet & World Food,Cereals & Breakfast,Yoga bar,290,290,Cereal & Granola Bars,3.8
+651,Medium Wire Hooks,"Kitchen, Garden & Pets",Storage & Accessories,Command,219,249,Wall Hooks & Hangers,
+652,Intense Gel Lime  Fresh,Cleaning & Household,All Purpose Cleaners,Wc Net,175,175,Imported Cleaners,
+653,Cashew/Kaju Whole Small W320 500g + Raisins/Kishmish - Indian 500g,"Foodgrains, Oil & Masala",Dry Fruits,bb Popular,604,1000,Other Dry Fruits,
+654,Tahini,"Foodgrains, Oil & Masala",Masalas & Spices,Bechef,260,325,Cooking Pastes,3.3
+655,Atta Noodles - Masala,Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",Top Ramen ,80,80,Instant Noodles,4.1
+656,Original Deodorant For Women,Beauty & Hygiene,Fragrances & Deos,Dove,143,220,Women's Deodorants,4.2
+657,Noodles - Medium Egg,Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",Blue Dragon,275,275,Instant Noodles,4
+658,Happy Chef Pasta- Penne Rigate 500g +Sauce - Arrabiata 270g +Borges Olive Oil 1L,Gourmet & World Food,"Sauces, Spreads & Dips",bb Combo,912,1704,Pastas & Spaghetti,
+659,Blemishes & Acne Control Sheet Mask (Pack of 6),Beauty & Hygiene,Skin Care,Mirabelle,425.73,774,Face Care,
+660,"Super Tight Plastic Container - Printed, Assorted Colour","Kitchen, Garden & Pets",Storage & Accessories,JOYO,209,342,Containers Sets,3.6
+661,Under Eye Gel,Beauty & Hygiene,Skin Care,Organic Harvest,505.75,595,Eye Care,2
+662,Dates Pickle,Snacks & Branded Foods,Pickles & Chutney,Double Horse,150,150,Other Veg Pickle,4.3
+663,Instant Noodles - Pepper Crab Flavor,Gourmet & World Food,"Pasta, Soup & Noodles",Koka,45,50,Imported Noodles,4.2
+664,"Confeito Rainbow Vermicelli, Sprinkles",Gourmet & World Food,Cooking & Baking Needs,Wow Confetti,128.25,135,"Baking, Cake Decorations",3
+665,Aroma Oil,Cleaning & Household,Fresheners & Repellents,Soulflower,1500,1500,Air Freshener,
+666,Honey - Weight Watchers,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",Future Organics,550,550,Honey,5
+667,Adhesive - All Fix Clear & Non Staining All Purpose,Cleaning & Household,Stationery,Pidilite,66.5,70,"Scissor, Glue & Tape",4.3
+668,Amaranth Grains,Gourmet & World Food,Cooking & Baking Needs,GoodDiet,147,245,Quinoa & Grains,
+669,Garlic Treat,Snacks & Branded Foods,Snacks & Namkeen,FruitTreat,90,90,Namkeen & Savoury Snacks,
+670,Steel Lunch/Tiffin Box With 4 Containers - 8X4,"Kitchen, Garden & Pets",Steel Utensils,BB Home,349,599,Steel Lunch Boxes,
+671,"Disposable Bamboo Wood Skewers/Pickers - For Use With Barbecue, 8 Inch","Kitchen, Garden & Pets",Kitchen Accessories,Bamboooz,99,250,Kitchen Tools & Other Accessories,3.7
+672,Gulab Jamun - Gol M Gol,Snacks & Branded Foods,Ready To Cook & Eat,Bikaji,230,230,"Tinned, Packed Sweets",3.6
+673,Aloe Vera Kanti - Body Cleanser Soap,Beauty & Hygiene,Bath & Hand Wash,Patanjali,15,15,Shower Gel & Body Wash,4.2
+674,Refillable Gas Lighter With Flame (27.5cm),"Kitchen, Garden & Pets",Kitchen Accessories,Fackelmann,185,199,Lighters,3.2
+675,"Garbage Bags - Compostable, 100% Corn Starch, Large, Green, Mono-Carton(24x32 Inches)",Cleaning & Household,"Disposables, Garbage Bag",BB Home,450,540,Garbage Bags,4
+676,"Focus - Super Dog Food, For Adults","Kitchen, Garden & Pets",Pet Food & Accessories,Drools,3612.5,4250,Pet Meals & Treats,3.3
+677,Room Air Freshener Spray - Rose Garden,Cleaning & Household,Fresheners & Repellents,Odonil ,119.2,149,Air Freshener,4
+678,Toilet Cleaner Clinging Bleach Gel,Cleaning & Household,All Purpose Cleaners,Clorox,225,300,Toilet Cleaners,3.5
+679,Organic - Sambar Powder,"Foodgrains, Oil & Masala",Organic Staples,Organic Tattva,57,60,Organic Masalas & Spices,4
+680,Choco Delite Bar,Snacks & Branded Foods,Breakfast Cereals,RiteBite Max Protein,420,420,Granola & Cereal Bars,4
+681,Pain Relief Cream,Beauty & Hygiene,Health & Medicine,Moov,112.5,125,Everyday Medicine,4.3
+682,Luna Water/Juice/Whisky Tumbler,"Kitchen, Garden & Pets",Crockery & Cutlery,Pasabahce,499,684,Glassware,3.5
+683,Marvel Avengers Small 304 Stainless Steel Lunch Box/Tiffin Box - HMHTLB 73357-AV,"Kitchen, Garden & Pets",Storage & Accessories,Hm International,349,399,Lunch Boxes,
+684,Silicone Pacifier Step 2 - Purple Flower,Baby Care,Baby Accessories,Pigeon Baby,249,249,Soothers & Teethers,3
+685,Olive Oil,Beauty & Hygiene,Skin Care,ST. D'VENCE,299,299,Aromatherapy,
+686,"Cerelac Baby Cereal with Milk - Wheat Apple, From 6-12 Months, Rich in Iron",Baby Care,Baby Food & Formula,Nestle ,199,199,Baby Food,4.4
+687,Rockers - Chocolate laddu,Snacks & Branded Foods,Indian Mithai,MISHT,299,299,Fresh Sweets,4.2
+688,Muffin/Cup Cake - Vanilla,"Bakery, Cakes & Dairy",Cakes & Pastries,Fresho Signature,159,159,Muffins & Cup Cakes,
+689,Gunpowder Temple of Heaven Hand Rolled Green Tea,Gourmet & World Food,Drinks & Beverages,TGL Co.,539.1,1198,Gourmet Tea & Tea Bags,
+690,Cool Wind Eau De Toilette Deodorant,Beauty & Hygiene,Men's Grooming,Nike,223.2,279,Men's Deodorants,
+691,Sausage - Chicken Piri Piri,"Eggs, Meat & Fish","Sausages, Bacon & Salami",La Carne,325,325,Chicken Sausages,
+692,"Kesari Shakti Kalp Chyawanprash - Immunity Booster With Gold, Silver & Saffron",Beauty & Hygiene,Health & Medicine,Baidyanath,450,450,Ayurveda,
+693,Immuniveda Golden Turmeric Milk Mix - Immunity Booster,Gourmet & World Food,Drinks & Beverages,Saffola,798,798,Health Drinks,3.7
+694,"Air Freshener - Lavender Flavoured, Paper, BB1100",Cleaning & Household,Fresheners & Repellents,Kuxuna,58,58,Air Freshener,4.3
+695,Edam Ball Cheese - Diced,Gourmet & World Food,Dairy & Cheese,Fresho Signature,342,380,International Cheese,
+696,Green Chilly - Chopped,Fruits & Vegetables,Cuts & Sprouts,Fresho,18,22.5,Cut & Peeled Veggies,
+697,Channa Masala,"Foodgrains, Oil & Masala",Masalas & Spices,bb Royal,21,35,Powdered Spices,4.1
+698,Red Pasta Sauce,Snacks & Branded Foods,Ready To Cook & Eat,Weikfield,40,40,Breakfast & Snack Mixes,4
+699,100% Pure Honey - Worlds No.1 Honey Brand With No Sugar Adulteration,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",Dabur,138,170,Honey,4.2
+700,Disney Cinderella Princess PVC Embossed Pencil Bag - HMHTPB 72231-CIN,Cleaning & Household,Stationery,Hm International,160,199,Exam Pads & Pencil Box,1
+701,Prosto-8 Tablet,Beauty & Hygiene,Health & Medicine,Meghdoot,150,150,Ayurveda,
+702,Exfoliating Walnut Scrub,Beauty & Hygiene,Skin Care,Everyuth Naturals,161.25,215,Face Care,4.3
+703,"Accurate Seal Plastic Tea, Coffee, Sugar Storage Container/Canister - Blue","Kitchen, Garden & Pets",Storage & Accessories,Asian,129,252,Containers Sets,4
+704,Mousepad With Gel & Wrist Support,Cleaning & Household,Stationery,KCL,87,150,Electronic Accessories,
+705,Premium Raw Organic Holy Basil Seeds,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Happilo,99,165,Roasted Seeds & Nuts,3.9
+706,"Namkeen - Murku, Ribbon",Snacks & Branded Foods,Snacks & Namkeen,Sanjay ,55,55,Namkeen & Savoury Snacks,4.2
+707,Organic - Green Peas/Ona Batani,"Foodgrains, Oil & Masala",Organic Staples,bb Royal,135,199,Organic Dals & Pulses,3.9
+708,Chewy Mints - Lemon,Snacks & Branded Foods,Chocolates & Candies,Doublemint,50,50,Mints & Chewing Gum,4.1
+709,Plain Container Jumbo Combo Set - Blue,"Kitchen, Garden & Pets",Storage & Accessories,Suvidha,469,469,Containers Sets,1
+710,Nacho Crisps - Cheese & Herbs,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Cornitos,13.4,20,Nachos & Chips,4.2
+711,Syrup - Peach,Gourmet & World Food,Drinks & Beverages,Monin,895,895,Cocktail Mixes,
+712,Disney Frozen 304 Stainless Steel Lunch Box/Tiffin Box - HMWWLB 85274-FZ,"Kitchen, Garden & Pets",Storage & Accessories,Hm International,599,699,Lunch Boxes,1
+713,Jack Fruit Chips,Snacks & Branded Foods,Snacks & Namkeen,A-1 Chips,120,120,Namkeen & Savoury Snacks,3.9
+714,Organic Sona Masoori White Rice/Akki,"Foodgrains, Oil & Masala",Organic Staples,bb Royal,619,875,"Organic Rice, Other Rice",
+715,Pet Food - Variety Stix,"Kitchen, Garden & Pets",Pet Food & Accessories,Jerhigh,440,440,Pet Meals & Treats,
+716,Thyme & Rosemary Hair Tonic - Scalp-cleansing Treatment,Beauty & Hygiene,Health & Medicine,Jiva Ayurveda,95,95,Ayurveda,
+717,"Deccan Gold - Premium Filter Coffee, 80:20 Blend",Beverages,Coffee,PRISTINE,100,120,Ground Coffee,4.3
+718,Multigrain Chips - Dahi Papdi Chaat,Snacks & Branded Foods,Snacks & Namkeen,Too Yumm!,29.75,35,Chips & Corn Snacks,4.1
+719,Shikanji & Chaat Savoury Taste Makers,Gourmet & World Food,Cooking & Baking Needs,Cafe Junyali,295,295,"Herbs, Seasonings & Rubs",
+720,Value Pack - Blueberry Almond Crisps + California Pistachio Crunch,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Epiphany Snacks,499,499,"Healthy, Baked Snacks",
+721,Sensitive - With Anti-Sensitivity & Fluoride Toothpaste,Beauty & Hygiene,Oral Care,Clove,152,160,Toothpaste,
+722,"Bucket - Super, Green",Cleaning & Household,Bins & Bathroom Ware,Cello,210,210,Buckets & Mugs,
+723,"Eau De Parfum - Hydra Energy, For Men",Beauty & Hygiene,Fragrances & Deos,Wild Stone,299.25,399,Perfume,4
+724,Safe Sun Sun Block Cream PA+ - SPF 20,Beauty & Hygiene,Skin Care,Lotus Herbals,142.5,190,Face Care,4
+725,Chandan Kesar Haldi Face Pack,Beauty & Hygiene,Skin Care,Vaadi,436.5,485,Face Care,
+726,Hazel Nut,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",SAPPHERO,455,455,Dry Fruits & Berries,
+727,Pickle - Avakkai,Snacks & Branded Foods,Pickles & Chutney,Mambalam Iyers,57,57,Lime & Mango Pickle,4.1
+728,French Lavender Oil & Rose Water Face Wash,Beauty & Hygiene,Skin Care,ST. D'VENCE,310,310,Face Care,3.1
+729,Green Moong//Hesaru Kaalu - Split,"Foodgrains, Oil & Masala",Dals & Pulses,Super Saver,130,160,"Toor, Channa & Moong Dal",4.2
+730,Bio Papaya Scrub Wash,Beauty & Hygiene,Skin Care,BIOTIQUE,202.5,270,Face Care,4.1
+731,"Organic Red Gram/Tur Dal - Split, Skinned","Foodgrains, Oil & Masala",Dals & Pulses,Earthon,135,135,Urad & Other Dals,4
+732,"Clothes Storage Laundry Bag - Text Printed, Blue, BB-549",Cleaning & Household,Bins & Bathroom Ware,DP,519,528,"Laundry, Storage Baskets",4
+733,Ramen Noodle Soup - Kimchi,Gourmet & World Food,"Pasta, Soup & Noodles",Samyang,110,110,Imported Noodles,4.2
+734,Eyeconic Kajal,Beauty & Hygiene,Makeup,Lakme,206.25,275,Eyes,3.9
+735,Stainless Steel Water Bottle - Red BB 508,"Kitchen, Garden & Pets",Storage & Accessories,DP,440,440,Water & Fridge Bottles,
+736,Nilgiris Green Teabags - Anicca Chamomile,Beverages,Tea,Teamonk,297.5,425,Green Tea,5
+737,4mm Aluminium Kadai With Handle - Silver,"Kitchen, Garden & Pets",Cookware & Non Stick,HAZEL,699,999,Kadai & Fry Pans,
+738,Select - Chhole Masala,"Foodgrains, Oil & Masala",Masalas & Spices,Valley Spice,75,75,Powdered Spices,4.5
+739,Borosilicate Glass Round Container With Lid - Green,"Kitchen, Garden & Pets",Storage & Accessories,BB Home,249,329,Containers Sets,4.5
+740,Protein Bars - Peanut Cocoa,Gourmet & World Food,Cereals & Breakfast,The Whole Truth,510,600,Cereal & Granola Bars,
+741,2X French Perfume Fabric Conditioner,Cleaning & Household,Detergents & Dishwash,Softouch,388.08,450,"Fabric Pre, Post Wash",4.3
+742,Chilli Powder/Menasina Pudi,"Foodgrains, Oil & Masala",Masalas & Spices,Iyengar Spices & Food Specialists ,60,60,Powdered Spices,3.7
+743,Madras Sambar Powder,"Foodgrains, Oil & Masala",Masalas & Spices,Eastern,38,40,Blended Masalas,4.3
+744,Frappuccino - Coffee,Gourmet & World Food,Drinks & Beverages,Starbucks,350,350,Coffee & Pre-Mix,
+745,Cup Noodles - Italiano,Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",Nissin,50,50,Cup Noodles,4
+746,"Cat Care - Comfort Bowl, 32Oz GIb1010","Kitchen, Garden & Pets",Pet Food & Accessories,Glenand,360,360,Pet Feeding Support,
+747,Sylvana Whisky Glass Tumbler,"Kitchen, Garden & Pets",Crockery & Cutlery,Pasabahce,489,660,Glassware,
+748,Flavoured Milk - Pista,"Bakery, Cakes & Dairy",Dairy,Heritage,96,100,"Flavoured, Soya Milk",4
+749,India's No 1 Fluoride Free Toothpaste,Beauty & Hygiene,Oral Care,Dabur Meswak,210.96,282,Toothpaste,4.3
+750,Mild Cheddar - Red Portion,Gourmet & World Food,Dairy & Cheese,Grandma Singletons,449,449,International Cheese,
+751,Wassup Pup Sulphate Free Puppy Shampoo,"Kitchen, Garden & Pets",Pet Food & Accessories,Captain Zack,390,390,Pet Cleaning & Grooming,
+752,Pinnacle Pride Lunch/Tiffin Kit - Yellow,"Kitchen, Garden & Pets",Storage & Accessories,Pinnacle,600,600,Lunch Boxes,
+753,Red Hot Anti Germ Mouthwash,Beauty & Hygiene,Oral Care,Closeup,185,230,Mouthwash,4.2
+754,Premium Eau De Toilette,Beauty & Hygiene,Fragrances & Deos,The Man Company,1319.4,2199,Perfume,
+755,"Coffee Roasters - Dark Vienna Roast, French Press",Gourmet & World Food,Drinks & Beverages,Blue Tokai ,450,450,Coffee & Pre-Mix,
+756,Pure Shilajit - Resin Form,Beauty & Hygiene,Health & Medicine,Upakarma,1450,1450,Supplements & Proteins,
+757,Pickle - Chicken,Snacks & Branded Foods,Pickles & Chutney,Double Horse,265,265,Non Veg Pickle,2.2
+758,Taft Ultimate Hair Lacquer Ultimately Strong 6,Beauty & Hygiene,Hair Care,Schwarzkopf,395,395,Hair & Scalp Treatment,3.7
+759,Vinegar - Apple Cider Vinegar + Garcinia,Gourmet & World Food,Oils & Vinegar,Kapiva Ayurveda,497.17,599,Balsamic & Cider Vinegar,4.4
+760,Baby Powder,Baby Care,Baby Bath & Hygiene,Johnson's baby,235,235,Baby Powder,4.5
+761,Aloe 90% Soothing Gel,Beauty & Hygiene,Skin Care,It's Skin,400,400,Face Care,1
+762,Assam Tea,Gourmet & World Food,Drinks & Beverages,Te-A-Me,80,80,Gourmet Tea & Tea Bags,
+763,In-Shower Hair Removal Cream For Men & Women - Normal Skin,Beauty & Hygiene,Feminine Hygiene,Veet,450,450,Hair Removal,4.1
+764,Chicken Nuggets,Snacks & Branded Foods,Frozen Veggies & Snacks,sumeru,269,269,Frozen Non-Veg Snacks,4
+765,Organic - Pumpkin Seeds/Kumbalakayi Bija,"Foodgrains, Oil & Masala",Organic Staples,bb Royal,375,475,Organic Dry Fruits,4
+766,Atlantic Salmon - Smoked  Presliced,"Eggs, Meat & Fish",Fish & Seafood,Big Sams,1180,1180,Frozen Fish & Seafood,
+767,Evening Primrose Oil - Vegetarian Capsule (500 mg),Beauty & Hygiene,Hair Care,Sri Sri Ayurveda ,295,295,Hair Oil & Serum,5
+768,Beetroot - Julienne,Fruits & Vegetables,Cuts & Sprouts,Fresho,26,32.5,Cut & Peeled Veggies,
+769,"Green Tea - Tulsi, Good Morning",Beverages,Tea,Wagh Bakri,75,150,Green Tea,
+770,Fabric Conditioner - Rose Fresh,Cleaning & Household,All Purpose Cleaners,Comfort,450,450,Imported Cleaners,3
+771,"Graphene Anion Day Use, L",Beauty & Hygiene,Feminine Hygiene,Colleen,120,120,Sanitary Napkins,
+772,Istanbul Juice/Whisky Glass Tumbler,"Kitchen, Garden & Pets",Crockery & Cutlery,Pasabahce,409,558,Glassware,4
+773,Organic - White Pepper,"Foodgrains, Oil & Masala",Organic Staples,bb Royal,70,75,Organic Masalas & Spices,4.3
+774,Diet Chivda,Snacks & Branded Foods,Snacks & Namkeen,Garden,50,50,Namkeen & Savoury Snacks,4.2
+775,Chilli Garlic Aioli Dip,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",All That Dips,160,200,Dips & Dressings,
+776,Jasmine Heart Bath Personal Care Gift Set,Beauty & Hygiene,Bath & Hand Wash,Soulflower,1600,2000,Bath Salts & Oils,
+777,"Loofah/Sponge Scrubber/Body - Pink, BH-064D PNK",Beauty & Hygiene,Bath & Hand Wash,BB Home,139,189,Bathing Accessories,
+778,Safe Sun Kids Sun Block Cream - SPF 25,Beauty & Hygiene,Skin Care,Lotus Herbals,232,335,Face Care,4
+779,Pasta & Pizza Sauce - No Onion & No Garlic,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",Veeba,89,89,Mayonnaise,4.2
+780,Soap Case - Glory,Beauty & Hygiene,Bath & Hand Wash,Reliance Plast,85,85,Bathing Accessories,5
+781,Peanut Butter - Chunky,Gourmet & World Food,"Sauces, Spreads & Dips",American Garden ,299,299,"Chocolate, Peanut Spread",4.1
+782,Skin Gel - Under Eye,Beauty & Hygiene,Skin Care,Richfeel,189,189,Eye Care,3
+783,"Honey Comb Touch Non-Stick Flat Tawa - 260 mm, Black","Kitchen, Garden & Pets",Cookware & Non Stick,Nirlon,429,799,Tawa & Sauce Pan,3.7
+784,"Face Mask - Pro Tech 95, 6 layered, Medium, MK18003",Beauty & Hygiene,Health & Medicine,T BASE,249,299,Face Masks & Safety Gears,3.6
+785,Hand Soap - Lavender & Chamomile,Beauty & Hygiene,Bath & Hand Wash,Skin Cottage ,225,225,Hand Wash & Sanitizers,5
+786,Durum Wheat Pasta- Penne Rigate 500 g Carton + Pasta Sauce- Arrabbiata 400 g Jar,Gourmet & World Food,"Sauces, Spreads & Dips",Barilla,598,598,Pastas & Spaghetti,
+787,Oil - Gingelly,"Foodgrains, Oil & Masala",Edible Oils & Ghee,Idhayam,279,299,Gingelly Oil,4.2
+788,Ragi - Whole,"Foodgrains, Oil & Masala",Organic Staples,Organic Tattva,57,60,Organic Dals & Pulses,3.8
+789,"Capsules - Shilajit Gold for Strength, Stamina & Power",Beauty & Hygiene,Health & Medicine,Dabur,322.5,430,Ayurveda,
+790,100% Melamine 3D Soup Spoon - Blue,"Kitchen, Garden & Pets",Crockery & Cutlery,Iveo ,264,264,Plates & Bowls,
+791,Signature Gold Dark Vanilla & Oud Wood Perfume,Beauty & Hygiene,Fragrances & Deos,Axe,360,450,Men's Deodorants,3.6
+792,"Super Moist Cake Mix - Yellow, Imported",Gourmet & World Food,Cooking & Baking Needs,Betty Crocker,445,445,Flours & Pre-Mixes,
+793,"Organic Pure Sweetener Blend - 1:4 Sugar Replacement Powder, Unbleached",Gourmet & World Food,"Sauces, Spreads & Dips",D-Alive,499,499,Thai & Asian Sauces,
+794,"100% Whey Protein, Rich Chocolate",Beauty & Hygiene,Health & Medicine,IN2,2000,2000,Supplements & Proteins,
+795,Chemba Puttu Podi,"Foodgrains, Oil & Masala","Atta, Flours & Sooji",Double Horse,145,145,Rice & Other Flours,4.3
+796,Ratnagiri Alphonso,Beverages,Fruit Juices & Drinks,B Natural,114,120,Juices,
+797,Water Wiper - Nano,Cleaning & Household,"Mops, Brushes & Scrubs",Milton - Spotzero,149,149,"Mops, Wipers",2.2
+798,Tomato Salsa Dip - Enjoy With Nacho Chips,Gourmet & World Food,"Sauces, Spreads & Dips",Habanero,157.5,175,"Hummus, Cheese, Salsa Dip",
+799,Canadian Grade A Maple Syrup,Gourmet & World Food,"Sauces, Spreads & Dips",Maple Joe,481.5,535,Honey & Maple Syrup,3.8
+800,"Harippa Roasted Seeds - Pumpkin, Cheesy Onion",Gourmet & World Food,"Snacks, Dry Fruits, Nuts",True Elements,120,120,Roasted Seeds & Nuts,4.8
+801,Premium - 3 Follow-Up Formula,Baby Care,Baby Food & Formula,Dexolac,595,595,Infant Formula,4.5
+802,Hand Wash - Green Apple,Beauty & Hygiene,Bath & Hand Wash,50ap,198,198,Hand Wash & Sanitizers,
+803,Energy Bar Hazelnut Magic 6 pcs + Energy Bar Oat & Apricot 6 pcs,Snacks & Branded Foods,Breakfast Cereals,On The Run,600,600,Granola & Cereal Bars,
+804,Stevia Tablets Dispenser,Gourmet & World Food,Cooking & Baking Needs,So Sweet,120,120,Exotic Sugar & Salt,4
+805,"Steel Spoon set - Ice cream, Monde","Kitchen, Garden & Pets",Crockery & Cutlery,Anjali,115,150,"Cutlery, Spoon & Fork",4.3
+806,My Dream For Him - Perfumed Deodorant Natural Spray,Beauty & Hygiene,Fragrances & Deos,Embark,295,295,Men's Deodorants,
+807,Imli Khajoor Chutney,"Foodgrains, Oil & Masala",Masalas & Spices,Madhur,90,90,Cooking Pastes,4.4
+808,Water & Juice Glass - Long,"Kitchen, Garden & Pets",Crockery & Cutlery,Krosno - Europe,1099,1099,Glassware,5
+809,Dry Dates/Kharjura/Chuara,"Foodgrains, Oil & Masala",Dry Fruits,Soulfit,699,699,Other Dry Fruits,4
+810,Express Shine Sponge - Black,Cleaning & Household,Car & Shoe Care,Kiwi,72,72,Shoe Polish,4.2
+811,"Storewell Airtight Plastic Container - Transparent, With Purple Lid","Kitchen, Garden & Pets",Storage & Accessories,Laplast,339,769,Containers Sets,4
+812,Olive Oil - Pomace,Gourmet & World Food,Oils & Vinegar,Basso,499,499,"Pure, Pomace Olive Oil",4.3
+813,Chai/100% Melamine Water/Juice Tumbler - Red,"Kitchen, Garden & Pets",Crockery & Cutlery,Iveo ,149,192,"Cups, Mugs & Tumblers",3.8
+814,100% Green Tea,Beverages,Tea,Sprig Tea,141.55,149,Green Tea,3.8
+815,Papad - Special Punjabi Masala,Snacks & Branded Foods,Ready To Cook & Eat,Atish ,90,90,"Papads, Ready To Fry",3.2
+816,"Anti Viral & Anti Pollution N95 Face Mask - Tesu, Large, Assorted",Beauty & Hygiene,Health & Medicine,Airific,1195,1195,Face Masks & Safety Gears,3
+817,Cookies - Cashew,Snacks & Branded Foods,Biscuits & Cookies,Unibic,36,40,Cookies,4.1
+818,"Plastic Bucket With Handle - Off Ivory, New Nova, 15400",Cleaning & Household,Bins & Bathroom Ware,Ratan,307,307,Buckets & Mugs,4.4
+819,Millet Idly & Dosa Batter,Snacks & Branded Foods,Ready To Cook & Eat,Batter Box,100,100,Breakfast & Snack Mixes,3.9
+820,Plastic Clip Mop - 350,Cleaning & Household,"Mops, Brushes & Scrubs",Gebi ,249,349,"Mops, Wipers",3.5
+821,"Prawns, Peeled & Deveined","Eggs, Meat & Fish",Fish & Seafood,Fresho,405,699,Fresh Fish,
+822,Serum Vegital Perfecting Toning Lotion - For All Skin Types,Beauty & Hygiene,Skin Care,YVES ROCHER,697,850,Face Care,
+823,"Spring Roll Sheets - 6""x6""",Snacks & Branded Foods,Frozen Veggies & Snacks,Switz,100,110,Frozen Veg Snacks,4
+824,Fiesta Serving Bowl With Serving Spoon - Assorted Colour,"Kitchen, Garden & Pets",Crockery & Cutlery,Nakoda,349,564,Plates & Bowls,4
+825,"Glass Water Bottle With Round Base - Yellow, B1367","Kitchen, Garden & Pets",Storage & Accessories,BB Home,209,499,Water & Fridge Bottles,
+826,Small Jars Set With Printed Lids,"Kitchen, Garden & Pets",Crockery & Cutlery,Yera,109,130,Glassware,4.2
+827,Tasty Masala Coated Peanuts,Snacks & Branded Foods,Snacks & Namkeen,Tasties,105,147,Namkeen & Savoury Snacks,
+828,Masala - Paneer,"Foodgrains, Oil & Masala",Masalas & Spices,Tata Sampann,37.8,42,Blended Masalas,4.3
+829,Singhara Atta - Gluten Free,Gourmet & World Food,"Atta, Flours & Sooji",Graminway,140,140,Flours & Pre-Mixes,3.7
+830,"Plastic Dustbin/Garbage Bin - Green With Black, Polka Dots, Bon Bon, 12081P-M-B",Cleaning & Household,Bins & Bathroom Ware,Ratan,199,320,Dustbins,2.9
+831,"Steel Storage/Lunch Container - No.14, Blue, Klip It","Kitchen, Garden & Pets",Steel Utensils,Joyo Steel,219,328,Steel Storage Containers,3.8
+832,Pink/Rosa Beauty Bathing Bar,Beauty & Hygiene,Bath & Hand Wash,Dove,193.5,215,Bathing Bars & Soaps,4.3
+833,Sesame Oil - Cold Pressed,Gourmet & World Food,Oils & Vinegar,Health 1st,195,195,Flavoured & Other Oils,4.8
+834,Purifying Neem Facial Wipes,Beauty & Hygiene,Skin Care,Himalaya,150,200,Face Care,4.3
+835,Fruit Juice - Mango Delight,Beverages,Fruit Juices & Drinks,Tropicana,164,200,Juices,
+836,International Italian Mushroom Soup,Snacks & Branded Foods,Ready To Cook & Eat,Knorr,58.5,65,Soups,4.2
+837,"Plates - Marine Fish, Medium","Kitchen, Garden & Pets",Crockery & Cutlery,Pasabahce,929,1272,Glassware,4
+838,Pumpkin - Organically Grown,Fruits & Vegetables,Fresh Vegetables,Fresho,28,35,Organic Vegetables,
+839,Baby Wipes - Gentle,Baby Care,Diapers & Wipes,Himalaya Baby,44,44,Baby Wipes,4.3
+840,Face Scrub De Tan With Walnut Granules,Beauty & Hygiene,Men's Grooming,USTRAA,226,350,Face & Body,2
+841,Hazelnut Kernel,Gourmet & World Food,Cooking & Baking Needs,Puramate,153,170,"Baking, Cake Decorations",
+842,Mutton Delicate Chops,"Eggs, Meat & Fish",Mutton & Lamb,Premier,550,550,Frozen Mutton,
+843,Snail Moisture Mask Sheet,Beauty & Hygiene,Skin Care,It's Skin,180,180,Face Care,
+844,Nutri-licious Masala Veg Atta Noodles - Pouch,Snacks & Branded Foods,"Noodle, Pasta, Vermicelli",MAGGI ,80.88,94,Instant Noodles,4.2
+845,Masala - Mumbai Bhaji Pav,"Foodgrains, Oil & Masala",Masalas & Spices,Badshah,35,35,Blended Masalas,4.4
+846,Squash - Sarasaparilla/Nannari/Sugandhi Root,Beverages,Fruit Juices & Drinks,NaturoBell,140,140,Syrups & Concentrates,2.5
+847,Pure Country Jaggery/Bella Powder,"Foodgrains, Oil & Masala","Salt, Sugar & Jaggery",Samvuddhi & Co,97,97,Sugar & Jaggery,3.9
+848,"Steel Storage/Lunch Container - No.21, Pink, Klip It","Kitchen, Garden & Pets",Steel Utensils,Joyo Steel,129,199,Steel Storage Containers,2.8
+849,"Sanitary Pads - XL Plus Wings, Ultra",Beauty & Hygiene,Feminine Hygiene,Whisper ,156.75,170,Sanitary Napkins,4.3
+850,Herbal Peptide + Hyaluronic 4% Firming Serum - Complete Age Control Concentrate,Beauty & Hygiene,Skin Care,Soulflower,1530,1800,Face Care,
+851,Agar Agar Vegetarian Gelatin,Gourmet & World Food,Cooking & Baking Needs,By Nature,449,449,"Baking, Cake Decorations",3.5
+852,Green Tea - Jasmine,Beverages,Tea,Typhoo,166,195,Green Tea,3.9
+853,Sapphire Storage Container - Assorted Colour,Cleaning & Household,Bins & Bathroom Ware,Nakoda,249,301,"Laundry, Storage Baskets",
+854,Secondary Class Students - Online Learning,Cleaning & Household,Stationery,Classmate,249,256,"Notebooks, Files, Folders",
+855,"Apple - Green, Premium",Fruits & Vegetables,Fresh Fruits,Fresho,145,181.25,Apples & Pomegranate,
+856,3-In-1 Conditioning Shampoo,Beauty & Hygiene,Hair Care,Brylcreem,225,225,Shampoo & Conditioner,4.5
+857,Makhana - Himalayan Salt & Pepper,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Nutty Yogi,79,79,"Healthy, Baked Snacks",
+858,Gold Flash - Mosquito Repellent Combo Machine & Refill,Cleaning & Household,Fresheners & Repellents,Good knight,160.2,178,Mosquito Repellent,4.2
+859,Maharasnadi Kwath,Beauty & Hygiene,Health & Medicine,Kerala Ayurveda,175,175,Ayurveda,
+860,Aloe Face Wash Gel,Beauty & Hygiene,Skin Care,Green Leaf,108,120,Face Care,3.8
+861,"Energy Bars - Berry, 4+ Years, 100% Natural & Healthy",Snacks & Branded Foods,Chocolates & Candies,Timios,700,700,Chocolates,3.8
+862,Hot & Cold Jug - Thermo Tuff,"Kitchen, Garden & Pets",Crockery & Cutlery,Asian,349,435,"Cups, Mugs & Tumblers",
+863,PP Apple Belt,Gourmet & World Food,Chocolates & Biscuits,Kantan,30,30,"Marshmallow, Candy, Jelly",5
+864,Shade Revive Plant Based Liquid Laundry Detergent,Cleaning & Household,Detergents & Dishwash,Born Good,262.65,309,"Detergent Powder, Liquid",
+865,Sensual - Handmade Jasmine Bathing Bar With Natural Chunks,Beauty & Hygiene,Bath & Hand Wash,BodyHerbals,199,199,Bathing Bars & Soaps,2
+866,El Paso Deodorant,Beauty & Hygiene,Fragrances & Deos,Lomani,150,250,Men's Deodorants,4.7
+867,Complete Detergent Washing Powder,Cleaning & Household,Detergents & Dishwash,Ariel ,280,280,"Detergent Powder, Liquid",4.4
+868,Classic Chicken Delite Soup,Snacks & Branded Foods,Ready To Cook & Eat,Knorr,49.5,55,Soups,4.3
+869,Kitchen Cloth - Big,Cleaning & Household,"Mops, Brushes & Scrubs",Raju's Cloth,99,99,Dust Cloth & Wipes,2
+870,Sugar Free Butter Cookies,Snacks & Branded Foods,Biscuits & Cookies,Unibic,34,40,Cookies,4.2
+871,Chef Curated Marinade Pahadi,"Foodgrains, Oil & Masala",Masalas & Spices,Cambay Tiger,120,120,Blended Masalas,5
+872,Pro 4 Shaving Razor for Men - Blade + Handle + Cap,Beauty & Hygiene,Men's Grooming,LetsShave,299,299,Shaving Care,
+873,Curcumin Imbued Honey,Gourmet & World Food,"Sauces, Spreads & Dips",Sprig,499,499,Honey & Maple Syrup,4.6
+874,Flakes - Ragi,Snacks & Branded Foods,Breakfast Cereals,Health Sutra,60,60,Kids Cereal,4.3
+875,Sports Sunscreen Lotion SPF 50,Beauty & Hygiene,Skin Care,INATUR ,247,380,Face Care,3.7
+876,Tea - Masala Vasala,Gourmet & World Food,Drinks & Beverages,Chymey,449,449,Gourmet Tea & Tea Bags,
+877,"Diabetic Care - Apple Cider Vinegar Blended With Bermuda Grass, Guava Leaf Juice & Honey",Gourmet & World Food,Oils & Vinegar,DrNatcure,449.1,499,Balsamic & Cider Vinegar,5
+878,Papaya & Apricot Anti Tan Scrub,Beauty & Hygiene,Skin Care,Glamveda,208,260,Face Care,3.7
+879,Pasta - Orecchiette,Gourmet & World Food,"Pasta, Soup & Noodles",PastificioG Di Martino,325,325,Pastas & Spaghetti,
+880,Bio Green - Apple Fresh Daily Purifying Shampoo & Conditioner,Beauty & Hygiene,Hair Care,BIOTIQUE,74.25,99,Shampoo & Conditioner,4.3
+881,Olive Pomace Oil,Gourmet & World Food,Oils & Vinegar,Pietro Coricelli,2800,2800,"Pure, Pomace Olive Oil",2.5
+882,Green Stuffed Hot Pepper Pickle,Gourmet & World Food,"Sauces, Spreads & Dips",Sakurafresh,250,250,"Jams, Marmalade, Spreads",
+883,Organic Basmati Rice/Basmati Akki - White,"Foodgrains, Oil & Masala",Organic Staples,Organic Tattva,237.5,250,"Organic Rice, Other Rice",3.8
+884,UV Away Moist Jumbo Sun Block,Beauty & Hygiene,Skin Care,It's Skin,1200,1200,Face Care,4.5
+885,"LED Bulb - 12 Watt, Cool White, B22","Kitchen, Garden & Pets",Appliances & Electricals,C&S Electric,149,269,CFL & Led Bulbs,3.3
+886,Crunchy Cinnamon Almond Butter,Gourmet & World Food,Dairy & Cheese,Nutty Yogi,389,389,Butter & Cream,3.2
+887,MaxFresh Pink Spicy Fresh Gel Toothpaste - Rajasthan Royals Special Edition Pack,Beauty & Hygiene,Oral Care,Colgate,89.25,105,Toothpaste,
+888,Elegance Deodorant - For Men,Beauty & Hygiene,Men's Grooming,Yardley London,159.2,199,Men's Deodorants,3.9
+889,Natural Baby Wash,Baby Care,Baby Bath & Hygiene,The Moms Co,149,149,Baby Bath,
+890,Bajra Pearls - Roasted,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Nutty Yogi,89,89,"Healthy, Baked Snacks",
+891,Tamarind/Hunisehannu,"Foodgrains, Oil & Masala",Masalas & Spices,Eastern,65,65,Whole Spices,3.9
+892,Kitchen Towel Paper Reusable Tissue Washable,Cleaning & Household,"Disposables, Garbage Bag",Beeta,180,180,Kitchen Rolls,3.8
+893,Organic Bisibelebath Mix - Kodo Millet,Snacks & Branded Foods,Ready To Cook & Eat,Aaha Oho,115,115,Breakfast & Snack Mixes,
+894,Wisal Dhabab Perfume Deodorant For Men,Beauty & Hygiene,Fragrances & Deos,Ajmal,225,299,Men's Deodorants,3.8
+895,Palakkad Red Matta Boiled Rice - Unda,"Foodgrains, Oil & Masala",Rice & Rice Products,bb Royal,242,350,Boiled & Steam Rice,
+896,Olive Vegetable Oil,Beauty & Hygiene,Skin Care,Aroma Treasures,156.75,165,Aromatherapy,
+897,Hearts & Kisses For Women,Beauty & Hygiene,Fragrances & Deos,Dorall Collection,419.3,599,Eau De Toilette,3.6
+898,Chocos - Moons & Stars,Snacks & Branded Foods,Breakfast Cereals,Kelloggs,175,175,Kids Cereal,4.2
+899,Instant Diet Popcorn - Contains Olive Oil,Snacks & Branded Foods,Snacks & Namkeen,PIPO,10,10,Chips & Corn Snacks,3.9
+900,Ultra Mosquito Repellant Refill - Floral Fragrance,Cleaning & Household,Fresheners & Repellents,All Out,72,72,Air Freshener,4.2
+901,Con Con Corn Chips - BBQ,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Tong Garden,120,120,"Healthy, Baked Snacks",
+902,Disinfectant Surface Sanitizer,Cleaning & Household,All Purpose Cleaners,Maxkleen,71.1,79,Disinfectant Spray & Cleaners,3.6
+903,Surekha Boiled Rice,"Foodgrains, Oil & Masala",Rice & Rice Products,bb Royal,228,300,Boiled & Steam Rice,
+904,Peri Peri Masala,"Foodgrains, Oil & Masala",Masalas & Spices,Smith & Jones,42.24,48,Blended Masalas,3.9
+905,Haldi Drops,Beauty & Hygiene,Health & Medicine,Zandu,190,190,Ayurveda,
+906,Pasta - 37B Penne Rigate,Gourmet & World Food,Oils & Vinegar,Colavita,92,115,Extra Virgin Olive Oil,2
+907,Asafoetida Powder,"Foodgrains, Oil & Masala",Masalas & Spices,G.D ,160,160,Powdered Spices,4.2
+908,Face Wash - Blush & Glow Strawberry Gel,Beauty & Hygiene,Skin Care,Lakme,153.75,205,Face Care,4.3
+909,Blueberry Almond Crisps,Gourmet & World Food,"Snacks, Dry Fruits, Nuts",Epiphany Snacks,225,225,"Healthy, Baked Snacks",
+910,"Toothpaste - Whitening, Cavity Protection, 150 G",Beauty & Hygiene,Oral Care,Pepsodent,85,100,Toothpaste,4.2
+911,"Bathing/Cleaning Bucket - With Plastic Handle, Mango Yellow, L1145PH-LT MY",Cleaning & Household,Bins & Bathroom Ware,Princeware,249,408,Buckets & Mugs,4.4
+912,Organic Puttu - Pearl Millet,Snacks & Branded Foods,Ready To Cook & Eat,Aaha Oho,68,68,Breakfast & Snack Mixes,2.3
+913,Muesli - Gluten Free,Gourmet & World Food,Cereals & Breakfast,Bobs Red Mill,790,790,Muesli & Rice Cakes,
+914,Organic Powder - Red Chilly,"Foodgrains, Oil & Masala",Organic Staples,Organic Tattva,52.25,55,Organic Masalas & Spices,4.1
+915,Thyme,"Foodgrains, Oil & Masala",Masalas & Spices,HappyChef,79,109,Herbs & Seasoning,
+916,"Steel Deep Dabba/Storage Container - No. 14, Plain","Kitchen, Garden & Pets",Steel Utensils,BB Home,329,459,Steel Storage Containers,
+917,"Coco Oval Basket With Lid - Medium, Assorted Colour",Cleaning & Household,Bins & Bathroom Ware,Nakoda,159,182,"Laundry, Storage Baskets",
+918,Aluminium Induction Base Flat Bottom Patila Tope Pot - Silver,"Kitchen, Garden & Pets",Cookware & Non Stick,HAZEL,399,599,Tawa & Sauce Pan,
+919,"Ultra-Fresh Fairness Face Wash With Milk, Licorice, Saffron",Beauty & Hygiene,Skin Care,Olivia,12.75,15,Face Care,2.3
+920,Pickle - Prawn,"Eggs, Meat & Fish",Fish & Seafood,Tasty Nibbles,225,225,Canned Seafood,
+921,Stand & Pee Reusable Portable Urination Funnel For Women,Beauty & Hygiene,Feminine Hygiene,Peebuddy,225.5,275,Intimate Wash & Care,2
+922,Original Scent - Dry Skin Moisturiser With Cherry Almond Essence,Beauty & Hygiene,Skin Care,Jergens,449.1,499,Body Care,4.3
+923,Cookies-Choco Ripple Cookies,Snacks & Branded Foods,Biscuits & Cookies,Unibic,36,40,Cookies,4.2
+924,"Executive Lunch Box - Small, T Blue","Kitchen, Garden & Pets",Storage & Accessories,Signoraware,390,390,Lunch Boxes,3.5
+925,Room Freshener - Soul Blossom Jasmine,Cleaning & Household,Fresheners & Repellents,Good Home,149,149,Air Freshener,4.3
+926,Sauce - Chilli,Gourmet & World Food,"Sauces, Spreads & Dips",Remia,200,200,Salad Dressings,5
+927,"Copper Water Fliptop Bottle - Hammered, Plain","Kitchen, Garden & Pets",Steel Utensils,Frestol,549,1299,Copper Utensils,2.3
+928,Himalayan Raw Apple Cider Vinegar,Snacks & Branded Foods,"Spreads, Sauces, Ketchup",Dabur,296,370,Vinegar,4.2
+929,"Toothbrush - 360 Degree Flosstip, Soft",Beauty & Hygiene,Oral Care,Colgate,142.5,190,Toothbrush,3.9
+930,Purifying Neem Face Wash,Beauty & Hygiene,Skin Care,Chandrika ,63,63,Face Care,3.9
+931,Opalware Classique 2 Dinner Set - Mystrio Black,"Kitchen, Garden & Pets",Crockery & Cutlery,Laopala Diva,2379,3395,Dinner Sets,3.3
+932,Black Sliced Olives,Gourmet & World Food,Tinned & Processed Food,Habit,180,200,"Olive, Jalapeno, Gherkin",3.8
+933,Diatrin Tablets - Controls Sugar Naturally,Beauty & Hygiene,Health & Medicine,Jiva Ayurveda,65,65,Ayurveda,
+934,"Hangable Dress Shaped Hand/Basin Towel - Cream, Bh-038 Crm",Beauty & Hygiene,Bath & Hand Wash,BB Home,209,260,Bathing Accessories,
+935,6 Oil Nourish Conditioner,Beauty & Hygiene,Hair Care,Loreal Paris,159,199,Shampoo & Conditioner,4.3
+936,"Stainless Steel  Induction Compatible Pressure Cooker - Silver, HSS10","Kitchen, Garden & Pets",Cookware & Non Stick,Hawkins,5320,5600,Pressure Cookers,
+937,"Chips - Potato, Masala",Snacks & Branded Foods,Snacks & Namkeen,Sanjay ,45,45,Chips & Corn Snacks,3.4
+938,Dates Powder - Natural Sweetener,Baby Care,Baby Food & Formula,Early Foods,300,300,Organic Baby Food,4.6
+939,Coconut Scraper - Sleek,"Kitchen, Garden & Pets",Kitchen Accessories,Anjali,199,225,Choppers & Graters,3.5
+940,Infant Formula Baby Food Powder - Stage 1,Baby Care,Baby Food & Formula,Enfamil A+,715,715,Infant Formula,4.5
+941,Organic - Whole Wheat Ajwain Jaggery Teething Sticks,Baby Care,Baby Food & Formula,Early Foods,175,175,Organic Baby Food,3.9
+942,Pre Shave Foam - Classic Lemon Lime,Beauty & Hygiene,Men's Grooming,Gillette,195.02,199,Shaving Care,4.2
+943,Onion - Organically Grown,Fruits & Vegetables,Fresh Vegetables,Fresho,35,43.75,Organic Vegetables,
+944,Cheese Spread - Asli Pepper,"Bakery, Cakes & Dairy",Dairy,Britannia,101.25,135,Cheese,4
+945,Lollygum,Snacks & Branded Foods,Chocolates & Candies,Dukes,99,125,"Toffee, Candy & Lollypop",3.7
+946,Pet Selo Container Set - Silver,"Kitchen, Garden & Pets",Storage & Accessories,Steelo,279,362,Containers Sets,3.6
+947,Amritsari Marinade,"Foodgrains, Oil & Masala",Masalas & Spices,Orika,51.75,69,Herbs & Seasoning,1
+948,Sriracha Hot Chilli Sauce,Gourmet & World Food,"Sauces, Spreads & Dips",Real Thai,180,180,Thai & Asian Sauces,4
+949,Brightening Booster Orange Shower Gel,Beauty & Hygiene,Bath & Hand Wash,BodyHerbals,299,299,Shower Gel & Body Wash,3
+950,Icecream Mix- Chocolate,Gourmet & World Food,Cooking & Baking Needs,Puramate,43.2,48,"Baking, Cake Decorations",4.2
+951,Spices - Whole White Pepper,Gourmet & World Food,Cooking & Baking Needs,Malabar Coast,250,250,"Herbs, Seasonings & Rubs",3
+952,Comb - Derby Deluxe No 61,Beauty & Hygiene,Hair Care,Ego of Paris,40,40,Tools & Accessories,4
+953,Scissors - Stylish Cut,Cleaning & Household,Stationery,Cartini,220,220,"Scissor, Glue & Tape",3.3
+954,Sylvana Shot Glass Tumbler,"Kitchen, Garden & Pets",Crockery & Cutlery,Pasabahce,359,438,Glassware,3.4
+955,"Padded Lead - 1 inch, Blue Colour","Kitchen, Garden & Pets",Pet Food & Accessories,Glenand,730,730,Pet Collars & Leashes,
+956,Pimple Clear & Germ Removal Face Wash,Beauty & Hygiene,Skin Care,Ponds,186,249,Face Care,4.4
+957,Organic Peanut Flax Chutney - Spicy Podi Flavour,Snacks & Branded Foods,Pickles & Chutney,Jus Amazin,120,130,Chutney Powder,3.7
+958,Manuka Honey Multifloral,Gourmet & World Food,"Sauces, Spreads & Dips",Nelson Honey,1999,1999,Honey & Maple Syrup,
+959,Everfresh Morning Rose Dew Gel Blocks,Cleaning & Household,Fresheners & Repellents,Air wick,59,65,Air Freshener,3.7
+960,Organic Tamarind/Hunisehannu,"Foodgrains, Oil & Masala",Masalas & Spices,bb Royal,239,339,Organic Masalas & Spices,
+961,"Muffin - Rich Chocolate, Whole Wheat (Eggless)","Bakery, Cakes & Dairy",Cakes & Pastries,BHealthy,289,289,Muffins & Cup Cakes,4.3
+962,Cheesy Corn Triangles,Snacks & Branded Foods,Frozen Veggies & Snacks,ITC Master Chef,152,160,Frozen Veg Snacks,3.7
+963,Rejuvenating Cucumber & Aloe Vera Face Pack For Skin,Beauty & Hygiene,Skin Care,Everyuth Naturals,171,180,Face Care,4.5
+964,Opalware Ivory Multiutility Bowl Set - Autumn Shadow,"Kitchen, Garden & Pets",Crockery & Cutlery,Laopala Diva,225,225,Plates & Bowls,
+965,Cheese Crunchy Layered Crackers,"Bakery, Cakes & Dairy","Cookies, Rusk & Khari",Malkist,140,150,"Bakery Biscuits, Cookies",4.5
+966,Kitchen & Household Daily Cleaning - Reusable Cloth,Cleaning & Household,"Mops, Brushes & Scrubs",York,151.2,180,Dust Cloth & Wipes,3
+967,Glass Water/Juice Tumbler - Summer,"Kitchen, Garden & Pets",Crockery & Cutlery,Iveo ,439,485,Glassware,3.5
+968,Pearl Whitening Peel Off Mask,Beauty & Hygiene,Skin Care,Glamveda,144,180,Face Care,3
+969,Plastic Watering Can - Green,"Kitchen, Garden & Pets",Gardening,Klassic,599,599,Gardening Tools,3.8
+970,Lemon Grass,Fruits & Vegetables,Herbs & Seasonings,Fresho,10,12.5,Indian & Exotic Herbs,
+971,Professional Salon Series Platinum Silver Facial Kit,Beauty & Hygiene,Skin Care,Vlcc,1120,1600,Face Care,5
+972,Medium Prawns,Snacks & Branded Foods,Frozen Veggies & Snacks,sumeru,225,250,Frozen Non-Veg Snacks,3.9
+973,"Stainless Steel Spices Bottle/Holder - Silver, BB 543","Kitchen, Garden & Pets",Storage & Accessories,DP,389,809,Racks & Holders,
+974,Organic - Chana Masala,"Foodgrains, Oil & Masala",Organic Staples,Phalada Pure & Sure,65,65,Organic Masalas & Spices,4.5
+975,"Body Bath Loofah/Sponge/Scrubber - Double Loop Hangable - Grey, BH011GRY","Kitchen, Garden & Pets",Kitchen Accessories,BB Home,219,219,Kitchen Tools & Other Accessories,
+976,Fibre Rich Muesli For Breakfast + Cranberry Blueberry Muesli Fibre (each 1kg),Gourmet & World Food,Cereals & Breakfast,True Elements,988,1190,Muesli & Rice Cakes,
+977,Immunity Booster Natural Remedial Drink,Gourmet & World Food,Cooking & Baking Needs,Cafe Junyali,395,395,"Curry Paste, Coconut Milk",
+978,"Copper Bottle - Matt Finish, Duke, BBCB03","Kitchen, Garden & Pets",Steel Utensils,BB Home,649,1299,Copper Utensils,3.2
+979,Syrup,Gourmet & World Food,"Sauces, Spreads & Dips",Hersheys ,200,200,"Chocolate, Peanut Spread",5
+980,Microfiber Multipurpose Cloth,Cleaning & Household,"Mops, Brushes & Scrubs",Gala,140,140,Dust Cloth & Wipes,4.1
+981,Paste - Ginger & Garlic,"Foodgrains, Oil & Masala",Masalas & Spices,Mother's Recipe,68.25,75,Cooking Pastes,4.2
+982,Sugar/Sakkare - Refined,"Foodgrains, Oil & Masala","Salt, Sugar & Jaggery",Madhur,234,295,Sugar & Jaggery,4.1
+983,Namkeen - Lite Chiwda,Snacks & Branded Foods,Snacks & Namkeen,Haldirams ,10,10,Namkeen & Savoury Snacks,4.1
+984,Men Expert White Activ Intensive Whitening Foam,Beauty & Hygiene,Men's Grooming,Loreal Paris,499,499,Face & Body,3
+985,Shai Mix,"Foodgrains, Oil & Masala",Dry Fruits,Marudhar,131.75,155,Mukhwas,
+986,Menthol Cool 500 ml + Laundry San- Fresh Linen 480 ml,Cleaning & Household,All Purpose Cleaners,Dettol,309.6,363,Disinfectant Spray & Cleaners,
+987,Daily Face Care Lotion Oil Balance - Combination To Normal Skin,Beauty & Hygiene,Skin Care,Lacto Calamine,117,130,Face Care,4.4
+988,Nano Sun Block Sun Protective Cream Spf 60,Beauty & Hygiene,Skin Care,Shahnaz Husain,455,455,Face Care,5
+989,Women Well Being Capsules,Beauty & Hygiene,Health & Medicine,ORGANIC INDIA,210,210,Supplements & Proteins,4
+990,Men Expert Hydra Power Duo Foam Cleanser,Beauty & Hygiene,Skin Care,Loreal Paris,367.54,499,Face & Body,4.1
+991,Bounce Biscuits - Orange Creme,Snacks & Branded Foods,Biscuits & Cookies,Sunfeast,27,30,Cream Biscuits & Wafers,4.2
+992,Organic - Parmal Rice,"Foodgrains, Oil & Masala",Organic Staples,bb Royal,424.15,499,Organic Masalas & Spices,
+993,Chicken Classic Salami,"Eggs, Meat & Fish","Sausages, Bacon & Salami",La Carne,140,140,Chicken Sausages,
+994,EDT Spray - Sport Style For Men,Beauty & Hygiene,Men's Grooming,Brut,595,595,Men's Deodorants,
+995,"Shot Body Spray - Absolute Series, Craze",Beauty & Hygiene,Fragrances & Deos,Layerr,168.75,225,Women's Deodorants,1
+996,W3 Perfume Spray - For Women,Beauty & Hygiene,Fragrances & Deos,Engage,250.9,420,Women's Deodorants,4.2
+997,Nut Cracker,Snacks & Branded Foods,Snacks & Namkeen,Bikaji,48,48,Namkeen & Savoury Snacks,5
+998,Alphabytes,Snacks & Branded Foods,Frozen Veggies & Snacks,ITC Master Chef,137.75,145,Frozen Veg Snacks,4.3
+999,Herbal Aloevera Neem & Basil Facial Massage Gel,Beauty & Hygiene,Skin Care,Khadi Natural,215,215,Face Care,3.4
+1000,Steel Lunch/Tiffin Box Set With Bag - Tiffany,"Kitchen, Garden & Pets",Steel Utensils,NanoNine,599,900,Steel Lunch Boxes,4
